@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering.Universal;
 using static UnityEngine.GraphicsBuffer;
 
 public class MovimentacaoVagalume : MonoBehaviour
@@ -18,6 +19,8 @@ public class MovimentacaoVagalume : MonoBehaviour
 
     InputAction acaoInteragir;
 
+    Light2D luz;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -30,12 +33,20 @@ public class MovimentacaoVagalume : MonoBehaviour
         Physics2D.IgnoreLayerCollision(3, 15);
 
         acaoInteragir = InputSystem.actions.FindAction("Interact");
-
+        luz = GetComponentInChildren<Light2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(estaPreso)
+        {
+            luz.pointLightOuterRadius = 4;
+        }
+        else
+        {
+            luz.pointLightOuterRadius = 2;
+        }
         if (!estaPreso && foiResgatado)
         {
             Movimentacao();
