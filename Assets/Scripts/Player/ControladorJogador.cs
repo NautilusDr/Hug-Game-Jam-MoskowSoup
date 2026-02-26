@@ -4,36 +4,16 @@ using UnityEngine.InputSystem;
 
 public class ControladorJogador : MonoBehaviour
 {
-    private int contadorVagalume;
-
-    InputAction acaoInteragir;
-
+    [Header("Lista de Vagalumes seguindo o jogador")]
     public List<GameObject> vagalumesColetados = new List<GameObject>();
 
     void Start()
     {
-        acaoInteragir = InputSystem.actions.FindAction("Interact");
-        contadorVagalume = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
-        TravarVagalume();
     }
-
-    public void TravarVagalume()
-    {
-        if(acaoInteragir.WasPerformedThisFrame()) 
-        {
-            if(vagalumesColetados.Count > 0)
-            {
-                vagalumesColetados[0].GetComponent<MovimentacaoVagalume>().estaPreso = true;
-                vagalumesColetados.RemoveAt(0);
-
-            }
-        }
-    }
-
-    
 }
+

@@ -5,29 +5,29 @@ using static UnityEngine.GraphicsBuffer;
 
 public class MovimentacaoVagalume : MonoBehaviour
 {
+    InputAction acaoInteragir;
     private GameObject jogador;
+
+    [Header("Movimentacao do Vagalume")]
     public float velocidadeBaseVagalume;
     public float velocidadeAtualVagalume;
     public float distanciaMinimaAteJogador;
     public float distanciaAteVagalumeVoltarJogador;
 
+    [Header("Bool para permitir movimentacao")]
     public bool foiResgatado;
+    public bool estaParado;   
 
-    public bool estaPreso;
-
-    public bool podeRecolher;
-
-    InputAction acaoInteragir;
-
+    [Header("Controle de Luz")]
+    public float intensidadeBrilhoParado;
+    public float intensidadeBrilhoMovendo;
     Light2D luz;
-
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        podeRecolher = false;
-        estaPreso = false;
-        foiResgatado = false;
+        estaParado = true;
+        //foiResgatado = false;
         jogador = GameObject.FindGameObjectWithTag("Player");
         velocidadeAtualVagalume = velocidadeBaseVagalume;
         Physics2D.IgnoreLayerCollision(3, 15);
@@ -39,22 +39,21 @@ public class MovimentacaoVagalume : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(estaPreso)
+        if(estaParado)
         {
-            luz.pointLightOuterRadius = 4;
+            luz.pointLightOuterRadius = intensidadeBrilhoParado;
         }
         else
         {
-            luz.pointLightOuterRadius = 2;
-        }
-        if (!estaPreso && foiResgatado)
-        {
+            luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
             Movimentacao();
         }
+
         if (Vector2.Distance(transform.position, jogador.transform.position) > distanciaAteVagalumeVoltarJogador)
         {
-            estaPreso = false;
+            estaParado = false;
         }
+
     }
 
     void Movimentacao()
@@ -63,7 +62,7 @@ public class MovimentacaoVagalume : MonoBehaviour
 
         if (distanciaAteJogador > distanciaMinimaAteJogador)
         {
-            if(distanciaAteJogador > distanciaMinimaAteJogador + 4)
+            if(distanciaAteJogador > distanciaAteVagalumeVoltarJogador/2)
             {
                 velocidadeAtualVagalume = velocidadeBaseVagalume * 3;
             }
@@ -75,31 +74,22 @@ public class MovimentacaoVagalume : MonoBehaviour
         }
     }
 
-    private void OnTriggerStay2D(Collider2D collision)
+    private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            if (acaoInteragir.IsPressed() && estaPreso)
+            if (estaParado)
             {
-                estaPreso = false;
+                estaParado = false;
                 collision.GetComponent<ControladorJogador>().vagalumesColetados.Add(gameObject);
-
             }
-
+            else
+            {
+                estaParado = true;
+                collision.GetComponent<ControladorJogador>().vagalumesColetados.RemoveAt(0);
+            }
         }
+
     }
 
-        private void OnTriggerEnter2D(Collider2D collision)
-    {       
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            if (!foiResgatado)
-            {
-                foiResgatado = true;
-
-                collision.GetComponent<ControladorJogador>().vagalumesColetados.Add(gameObject);
-            }
-        }
-
-    }  
 }

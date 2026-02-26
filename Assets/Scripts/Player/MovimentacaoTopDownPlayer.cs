@@ -4,11 +4,12 @@ using UnityEngine.InputSystem;
 
 public class MovimentacaoTopDownPlayer : MonoBehaviour
 {
-    public float velocidadeBaseJogador;
-    private float velocidadeAtualJogador;
-    public Rigidbody2D jogadorRigidBody2D;
-    
     InputAction acaoMovimento;
+
+    [Header("Movimento do Jogador")]
+    public float velocidadeBaseJogador;
+    public float velocidadeAtualJogador;
+    public Rigidbody2D jogadorRigidBody2D;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
