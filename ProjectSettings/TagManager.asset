@@ -42,5 +42,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tras
+    uniqueID: 3681503437
+    locked: 0
+  - name: Meio
+    uniqueID: 3068579415
+    locked: 0
+  - name: Frente
+    uniqueID: 1271609383
+    locked: 0
   m_RenderingLayers:
   - Default
