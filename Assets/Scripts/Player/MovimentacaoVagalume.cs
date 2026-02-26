@@ -4,19 +4,27 @@ using static UnityEngine.GraphicsBuffer;
 public class MovimentacaoVagalume : MonoBehaviour
 {
     private GameObject jogador;
-    public float velocidadeVagalume;
+    public float velocidadeBaseVagalume;
+    public float velocidadeAtualVagalume;
     public float distanciaMinimaAteJogador;
+
+    public bool estaPreso;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         jogador = GameObject.FindGameObjectWithTag("Player");
+        velocidadeAtualVagalume = velocidadeBaseVagalume;
         Physics2D.IgnoreLayerCollision(3, 15);
     }
 
     // Update is called once per frame
     void Update()
     {
-        Movimentacao();
+        if (!estaPreso)
+        {
+            Movimentacao();
+        }
     }
 
     void Movimentacao()
@@ -25,7 +33,22 @@ public class MovimentacaoVagalume : MonoBehaviour
 
         if(distanciaAteJogador > distanciaMinimaAteJogador)
         {
-            transform.position = Vector2.MoveTowards(transform.position, jogador.transform.position, velocidadeVagalume * Time.deltaTime);
+            if(distanciaAteJogador > distanciaMinimaAteJogador + 4)
+            {
+                velocidadeAtualVagalume = velocidadeBaseVagalume * 2;
+            }
+            else
+            {
+                velocidadeAtualVagalume = velocidadeBaseVagalume;
+            }
+            transform.position = Vector2.MoveTowards(transform.position, jogador.transform.position, velocidadeAtualVagalume * Time.deltaTime);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            estaPreso = false;
         }
     }
 }

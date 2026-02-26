@@ -7,8 +7,9 @@ public class MovimentacaoTopDownPlayer : MonoBehaviour
     public float velocidadeBaseJogador;
     private float velocidadeAtualJogador;
     public Rigidbody2D jogadorRigidBody2D;
-
+    
     InputAction moveAction;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -26,7 +27,7 @@ public class MovimentacaoTopDownPlayer : MonoBehaviour
 
     void FixedUpdate()
     {
-        Movimentacao();
+        Movimentacao();       
     }
 
     void Movimentacao()
@@ -36,4 +37,6 @@ public class MovimentacaoTopDownPlayer : MonoBehaviour
 
         jogadorRigidBody2D.linearVelocity = velocidadeMovimentacao;
     }
+
+
 }
