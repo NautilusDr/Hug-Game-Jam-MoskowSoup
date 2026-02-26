@@ -4,7 +4,6 @@ using UnityEngine.InputSystem;
 
 public class MovimentacaoTopDownPlayer : MonoBehaviour
 {
-    private Vector2 direcaoMovimentoJogador;
     public float velocidadeBaseJogador;
     private float velocidadeAtualJogador;
     public Rigidbody2D jogadorRigidBody2D;
@@ -22,13 +21,7 @@ public class MovimentacaoTopDownPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 moveValue = moveAction.ReadValue<Vector2>();
-        Vector2 velocidadeMovimentacao = moveValue * velocidadeBaseJogador;
-
-        jogadorRigidBody2D.linearVelocity = velocidadeMovimentacao;
-        //float direcaoMovimentoX = InputSystem.actions.FindAction("move");
-        //float direcaoMovimentoY = 
-        //direcaoMovimentoJogador = new Vector2(direcaoMovimentoX, direcaoMovimentoY).normalized;
+        
     }
 
     void FixedUpdate()
@@ -38,6 +31,9 @@ public class MovimentacaoTopDownPlayer : MonoBehaviour
 
     void Movimentacao()
     {
-        
+        Vector2 moveValue = moveAction.ReadValue<Vector2>();
+        Vector2 velocidadeMovimentacao = moveValue * velocidadeAtualJogador;
+
+        jogadorRigidBody2D.linearVelocity = velocidadeMovimentacao;
     }
 }
