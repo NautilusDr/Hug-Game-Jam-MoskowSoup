@@ -287,7 +287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f47aef77a7fb444c8cbfcf03bc310d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovimentacaoTopDownPlayer
-  velocidadeBaseJogador: 10
+  velocidadeBaseJogador: 20
   jogadorRigidBody2D: {fileID: 1206318828}
 --- !u!212 &1206318826
 SpriteRenderer:
@@ -375,10 +375,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_AngularDamping: 0
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
