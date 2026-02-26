@@ -217,6 +217,8 @@ MonoBehaviour:
   velocidadeBaseVagalume: 2
   velocidadeAtualVagalume: 0
   distanciaMinimaAteJogador: 1.5
+  distanciaAteVagalumeVoltarJogador: 20
+  foiResgatado: 0
   estaPreso: 1
 --- !u!212 &57426766
 SpriteRenderer:
@@ -596,6 +598,8 @@ MonoBehaviour:
   velocidadeBaseVagalume: 2
   velocidadeAtualVagalume: 0
   distanciaMinimaAteJogador: 1.5
+  distanciaAteVagalumeVoltarJogador: 20
+  foiResgatado: 0
   estaPreso: 1
 --- !u!212 &899457418
 SpriteRenderer:
@@ -647,7 +651,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0.9504018, b: 0, a: 1}
+  m_Color: {r: 0.6415094, g: 0.60880506, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -770,6 +774,8 @@ MonoBehaviour:
   velocidadeBaseVagalume: 2
   velocidadeAtualVagalume: 0
   distanciaMinimaAteJogador: 1
+  distanciaAteVagalumeVoltarJogador: 20
+  foiResgatado: 0
   estaPreso: 1
 --- !u!212 &1178658613
 SpriteRenderer:
@@ -821,7 +827,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0.9504018, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.69803923, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -859,6 +865,7 @@ GameObject:
   - component: {fileID: 1206318825}
   - component: {fileID: 1206318828}
   - component: {fileID: 1206318829}
+  - component: {fileID: 1206318830}
   m_Layer: 3
   m_Name: Triangle
   m_TagString: Player
@@ -1017,6 +1024,19 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.005831301, y: 0.048057884}
   m_Radius: 0.40086845
+--- !u!114 &1206318830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1206318824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce9cf51ac3329a6408027b0a955628e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ControladorJogador
+  vagalumesColetados: []
 --- !u!1 &1839333646
 GameObject:
   m_ObjectHideFlags: 0
@@ -1319,6 +1339,8 @@ MonoBehaviour:
   velocidadeBaseVagalume: 2
   velocidadeAtualVagalume: 0
   distanciaMinimaAteJogador: 1
+  distanciaAteVagalumeVoltarJogador: 30
+  foiResgatado: 0
   estaPreso: 1
 --- !u!212 &2004272272
 SpriteRenderer:
@@ -1370,7 +1392,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0.9504018, b: 0, a: 1}
+  m_Color: {r: 0.5943396, g: 0.41652527, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1388,7 +1410,7 @@ Transform:
   m_GameObject: {fileID: 2004272268}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.13, y: -2.42, z: 0}
+  m_LocalPosition: {x: 4.75, y: -2.04, z: 0}
   m_LocalScale: {x: 0.3636, y: 0.3636, z: 0.3636}
   m_ConstrainProportionsScale: 0
   m_Children:
