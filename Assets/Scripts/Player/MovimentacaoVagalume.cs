@@ -22,6 +22,7 @@ public class MovimentacaoVagalume : MonoBehaviour
     public float intensidadeBrilhoParado;
     public float intensidadeBrilhoMovendo;
     Light2D luz;
+    public CircleCollider2D colisorLuz;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -34,6 +35,8 @@ public class MovimentacaoVagalume : MonoBehaviour
 
         acaoInteragir = InputSystem.actions.FindAction("Interact");
         luz = GetComponentInChildren<Light2D>();
+        colisorLuz.radius = intensidadeBrilhoParado + 1;
+
     }
 
     // Update is called once per frame
@@ -41,12 +44,10 @@ public class MovimentacaoVagalume : MonoBehaviour
     {
         if(estaParado)
         {
-            luz.pointLightOuterRadius = intensidadeBrilhoParado;
         }
         else
         {
-            luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
-            Movimentacao();
+            Movimentacao();            
         }
 
         if (Vector2.Distance(transform.position, jogador.transform.position) > distanciaAteVagalumeVoltarJogador)
@@ -81,11 +82,15 @@ public class MovimentacaoVagalume : MonoBehaviour
             if (estaParado)
             {
                 estaParado = false;
+                luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
+                colisorLuz.radius = intensidadeBrilhoMovendo * 2;
                 collision.GetComponent<ControladorJogador>().vagalumesColetados.Add(gameObject);
             }
             else
             {
                 estaParado = true;
+                luz.pointLightOuterRadius = intensidadeBrilhoParado;
+                colisorLuz.radius = intensidadeBrilhoParado * 2;
                 collision.GetComponent<ControladorJogador>().vagalumesColetados.RemoveAt(0);
             }
         }
