@@ -35,7 +35,8 @@ public class MovimentacaoVagalume : MonoBehaviour
 
         acaoInteragir = InputSystem.actions.FindAction("Interact");
         luz = GetComponentInChildren<Light2D>();
-        colisorLuz.radius = intensidadeBrilhoParado + 1;
+        luz.pointLightOuterRadius = intensidadeBrilhoParado/2;
+        colisorLuz.radius = intensidadeBrilhoParado;
 
     }
 

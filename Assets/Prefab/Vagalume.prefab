@@ -114,8 +114,8 @@ MonoBehaviour:
   distanciaAteVagalumeVoltarJogador: 20
   foiResgatado: 0
   estaParado: 0
-  intensidadeBrilhoParado: 3
-  intensidadeBrilhoMovendo: 5
+  intensidadeBrilhoParado: 6
+  intensidadeBrilhoMovendo: 4
   colisorLuz: {fileID: 2868261596313191177}
 --- !u!50 &5303342746785919068
 Rigidbody2D:
