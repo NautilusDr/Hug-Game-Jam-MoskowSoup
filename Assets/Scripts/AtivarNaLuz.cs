@@ -4,9 +4,9 @@ public class AtivarNaLuz : MonoBehaviour
 {
     public MonoBehaviour[] script;
 
-    void Start()
+    private void Awake()
     {
-        for(int i = 0; i < script.Length; i++)
+        for (int i = 0; i < script.Length; i++)
         {
             script[i].enabled = false;
         }
