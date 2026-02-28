@@ -10,6 +10,7 @@ public class MovimentacaoCamera : MonoBehaviour
     private void Awake()
     {
         proximaSala = 0;
+        DefinirProximaSala(0);
     }
 
     private void FixedUpdate()

@@ -5,7 +5,6 @@ using static UnityEngine.GraphicsBuffer;
 
 public class MovimentacaoVagalume : MonoBehaviour
 {
-    InputAction acaoInteragir;
     private GameObject jogador;
 
     [Header("Movimentacao do Vagalume")]
@@ -16,24 +15,25 @@ public class MovimentacaoVagalume : MonoBehaviour
 
     [Header("Bool para permitir movimentacao")]
     public bool foiResgatado;
-    public bool estaParado;   
+    public bool estaParado;
+    public bool estaAbajur;
+    public bool estaLupa;
 
     [Header("Controle de Luz")]
     public float intensidadeBrilhoParado;
     public float intensidadeBrilhoMovendo;
-    Light2D luz;
+    [HideInInspector] public Light2D luz;
     public CircleCollider2D colisorLuz;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         estaParado = true;
-        //foiResgatado = false;
+        estaAbajur = false;
+        
         jogador = GameObject.FindGameObjectWithTag("Player");
         velocidadeAtualVagalume = velocidadeBaseVagalume;
         Physics2D.IgnoreLayerCollision(3, 15);
-
-        acaoInteragir = InputSystem.actions.FindAction("Interact");
         luz = GetComponentInChildren<Light2D>();
         luz.pointLightOuterRadius = intensidadeBrilhoParado/2;
         colisorLuz.radius = intensidadeBrilhoParado;
@@ -43,15 +43,12 @@ public class MovimentacaoVagalume : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(estaParado)
+        if(!estaParado && !estaAbajur && !estaLupa)
         {
-        }
-        else
-        {
-            Movimentacao();            
+            Movimentacao();
         }
 
-        if (Vector2.Distance(transform.position, jogador.transform.position) > distanciaAteVagalumeVoltarJogador)
+        if (Vector2.Distance(transform.position, jogador.transform.position) > distanciaAteVagalumeVoltarJogador && !estaAbajur)
         {
             estaParado = false;
         }
@@ -76,9 +73,48 @@ public class MovimentacaoVagalume : MonoBehaviour
         }
     }
 
+    public void EntrarAbajur()
+    {
+        estaAbajur = true;
+        colisorLuz.radius = intensidadeBrilhoParado * 4;
+        luz.pointLightOuterRadius = intensidadeBrilhoParado * 2;
+    }
+
+    public void SairAbajur()
+    {
+        estaAbajur = false;
+        colisorLuz.radius = intensidadeBrilhoMovendo;
+        luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
+    }
+
+    public void EntrarLupa(GameObject lupa)
+    {
+        estaLupa = true;
+        transform.parent = lupa.transform;
+        colisorLuz.radius = 1;
+        luz.pointLightOuterRadius = intensidadeBrilhoParado;
+        luz.falloffIntensity = 0.15f;
+        luz.pointLightInnerAngle = 0;
+        luz.pointLightOuterAngle = 60;
+        transform.rotation = lupa.transform.rotation;
+    }
+
+    public void SairLupa()
+    {
+        estaLupa = false;
+        transform.parent = null;
+        colisorLuz.radius = intensidadeBrilhoMovendo *2;
+        luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
+        luz.falloffIntensity = 0.5f; 
+        luz.pointLightInnerAngle = 360;
+        luz.pointLightOuterAngle = 360;
+        transform.rotation = new Quaternion(0, 0, 0, 0);
+    }
+
+
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && !estaAbajur)
         {
             if (estaParado)
             {
