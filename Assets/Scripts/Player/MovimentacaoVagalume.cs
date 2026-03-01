@@ -25,11 +25,16 @@ public class MovimentacaoVagalume : MonoBehaviour
     [HideInInspector] public Light2D luz;
     public CircleCollider2D colisorLuz;
 
+    [Header("Componente da larva")]
+    public static bool larvaPodeAndar;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         estaParado = true;
         estaAbajur = false;
+
+        larvaPodeAndar = false;
         
         jogador = GameObject.FindGameObjectWithTag("Player");
         velocidadeAtualVagalume = velocidadeBaseVagalume;
@@ -112,6 +117,18 @@ public class MovimentacaoVagalume : MonoBehaviour
     }
 
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Larva"))
+        {
+            if (colisorLuz.IsTouching(collision))
+            {
+                larvaPodeAndar = true;
+            }
+        }
+    }
+
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player") && !estaAbajur)
@@ -129,6 +146,14 @@ public class MovimentacaoVagalume : MonoBehaviour
                 luz.pointLightOuterRadius = intensidadeBrilhoParado;
                 colisorLuz.radius = intensidadeBrilhoParado * 2;
                 collision.GetComponent<ControladorJogador>().vagalumesColetados.RemoveAt(0);
+            }
+        }
+
+        if (collision.gameObject.CompareTag("Larva"))
+        {
+            if (!colisorLuz.IsTouching(collision))
+            {
+                larvaPodeAndar = false;
             }
         }
 
