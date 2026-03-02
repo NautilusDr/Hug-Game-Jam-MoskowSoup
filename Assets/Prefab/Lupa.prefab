@@ -110,7 +110,7 @@ MonoBehaviour:
   velocidadeRotacao: 10
   estaNaLuz: 0
   possuiVagalume: 0
-  podeInteragirLupa: 0
+  podeInteragirLupa: 1
 --- !u!60 &640320557139781678
 PolygonCollider2D:
   m_ObjectHideFlags: 0
