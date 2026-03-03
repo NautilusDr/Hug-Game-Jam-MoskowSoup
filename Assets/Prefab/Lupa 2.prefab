@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2809547037147160591
+--- !u!1 &380803478322344494
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,42 +8,42 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 104395355866971774}
-  - component: {fileID: 3184275988201813938}
-  - component: {fileID: 8209932988787036035}
-  - component: {fileID: 640320557139781678}
+  - component: {fileID: 2755528394732256944}
+  - component: {fileID: 151971254017546467}
+  - component: {fileID: 3021344367558898178}
+  - component: {fileID: 1294627700158250389}
   m_Layer: 0
-  m_Name: Lupa
+  m_Name: Lupa 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &104395355866971774
+--- !u!4 &2755528394732256944
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2809547037147160591}
+  m_GameObject: {fileID: 380803478322344494}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.9873, y: 2.1419, z: 0}
+  m_LocalPosition: {x: 5.54, y: -3.23, z: 0}
   m_LocalScale: {x: 3.625184, y: 3.4366796, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 721582716936874462}
-  - {fileID: 872159766467059309}
+  - {fileID: 6125871835600278618}
+  - {fileID: 6043365041454255337}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &3184275988201813938
+--- !u!212 &151971254017546467
 SpriteRenderer:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2809547037147160591}
+  m_GameObject: {fileID: 380803478322344494}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -95,13 +95,13 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &8209932988787036035
+--- !u!114 &3021344367558898178
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2809547037147160591}
+  m_GameObject: {fileID: 380803478322344494}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec999ad4d5b9c7c4d9a9b63e9997134a, type: 3}
@@ -112,13 +112,13 @@ MonoBehaviour:
   estaNaLuz: 0
   possuiVagalume: 0
   podeInteragirLupa: 1
---- !u!60 &640320557139781678
+--- !u!60 &1294627700158250389
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2809547037147160591}
+  m_GameObject: {fileID: 380803478322344494}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -162,7 +162,7 @@ PolygonCollider2D:
       - {x: -0.5, y: -0.28866667}
       - {x: 0.5, y: -0.28866667}
   m_UseDelaunayMesh: 1
---- !u!1 &3469704970931503226
+--- !u!1 &4508034592825395231
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -170,37 +170,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 872159766467059309}
-  - component: {fileID: 5582851410592647234}
+  - component: {fileID: 6043365041454255337}
+  - component: {fileID: 3433673518041217284}
   m_Layer: 15
   m_Name: ColisorLuz (1)
-  m_TagString: Lupa
+  m_TagString: Lupa2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &872159766467059309
+--- !u!4 &6043365041454255337
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3469704970931503226}
+  m_GameObject: {fileID: 4508034592825395231}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1.189, z: 0}
   m_LocalScale: {x: 0.39012, y: 0.39012, z: 0.39012}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 104395355866971774}
+  m_Father: {fileID: 2755528394732256944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &5582851410592647234
+--- !u!60 &3433673518041217284
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3469704970931503226}
+  m_GameObject: {fileID: 4508034592825395231}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -247,7 +247,7 @@ PolygonCollider2D:
       - {x: 0.4084708, y: -2.043472}
       - {x: 1.9514444, y: 0.86651284}
   m_UseDelaunayMesh: 1
---- !u!1 &8900282248356412136
+--- !u!1 &9096834049679697465
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -255,8 +255,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 721582716936874462}
-  - component: {fileID: 3852719495109369675}
+  - component: {fileID: 6125871835600278618}
+  - component: {fileID: 7000695082941575909}
   m_Layer: 15
   m_Name: ColisorLuz
   m_TagString: Vagalume
@@ -264,28 +264,28 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &721582716936874462
+--- !u!4 &6125871835600278618
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8900282248356412136}
+  m_GameObject: {fileID: 9096834049679697465}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1.189, z: 0}
   m_LocalScale: {x: 0.39012, y: 0.39012, z: 0.39012}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 104395355866971774}
+  m_Father: {fileID: 2755528394732256944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &3852719495109369675
+--- !u!60 &7000695082941575909
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8900282248356412136}
+  m_GameObject: {fileID: 9096834049679697465}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
