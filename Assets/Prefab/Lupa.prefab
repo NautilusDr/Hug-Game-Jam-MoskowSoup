@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 3852719495109369675}
   m_Layer: 15
   m_Name: ColisorLuz
-  m_TagString: Vagalume
+  m_TagString: Lupa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

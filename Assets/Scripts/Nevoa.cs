@@ -3,22 +3,20 @@ using UnityEngine;
 public class Nevoa : MonoBehaviour
 {
     public bool lupa;
-    public bool lupa2;
-    public bool abrir;
     public Collider2D collider2d;
     public Animator animator;
 
+
     void Start()
     {
-        abrir = false;
         lupa = false;
-        lupa2 = false;
         animator = GetComponent<Animator>();
+        collider2d = GetComponent<Collider2D>();
     }
 
     void Update()
     {
-        if(lupa && lupa2)
+        if(lupa)
         {
             DesativarNevoa();
         }
@@ -44,12 +42,10 @@ public class Nevoa : MonoBehaviour
         if (collision.gameObject.CompareTag("Lupa"))
         {
             lupa = true;
+            DesativarNevoa();
         }
 
-        if (collision.gameObject.CompareTag("Lupa2"))
-        {
-            lupa2 = true;
-        }
+       
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -57,12 +53,10 @@ public class Nevoa : MonoBehaviour
         if (collision.gameObject.CompareTag("Lupa"))
         {
             lupa = false;
+            AtivarNevoa();
         }
 
-        if (collision.gameObject.CompareTag("Lupa2"))
-        {
-            lupa2 = false;
-        }
+        
     }
 
     public void AtivarColisor()
