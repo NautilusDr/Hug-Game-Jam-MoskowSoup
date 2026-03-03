@@ -5,6 +5,8 @@ using UnityEngine.InputSystem;
 public class MovimentacaoTopDownPlayer : MonoBehaviour
 {
     InputAction acaoMovimento;
+    [SerializeField] AudioSource somPassosSource;
+    [SerializeField] AudioClip somPassosClip;
 
 
     [Header("Movimento do Jogador")]
@@ -63,5 +65,14 @@ public class MovimentacaoTopDownPlayer : MonoBehaviour
         }
     }
 
+    public void Passos()
+    {
+        //somPassosSource.pitch = Random.Range(0, 3);
+        somPassosSource.PlayOneShot(somPassosClip);
+    }
 
+    public void PararPassos()
+    {
+        somPassosSource.Stop();
+    }
 }
