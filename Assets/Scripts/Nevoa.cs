@@ -5,20 +5,37 @@ public class Nevoa : MonoBehaviour
     public bool lupa;
     public bool lupa2;
     public bool abrir;
+    public Collider2D collider2d;
+    public Animator animator;
 
     void Start()
     {
         abrir = false;
         lupa = false;
         lupa2 = false;
+        animator = GetComponent<Animator>();
     }
 
     void Update()
     {
         if(lupa && lupa2)
         {
-            gameObject.SetActive(false);
+            DesativarNevoa();
         }
+        else
+        {
+            AtivarNevoa();
+        }
+    }
+
+    public void DesativarNevoa()
+    {
+        animator.SetTrigger("Sumir");
+    }
+
+    public void AtivarNevoa()
+    {
+        animator.SetTrigger("Aparecer");
     }
 
 
@@ -47,4 +64,15 @@ public class Nevoa : MonoBehaviour
             lupa2 = false;
         }
     }
+
+    public void AtivarColisor()
+    {
+        collider2d.enabled = true; 
+    }
+
+    public void DesativarColisor()
+    {
+        collider2d.enabled = false;
+    }
+
 }

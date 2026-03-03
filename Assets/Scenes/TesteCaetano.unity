@@ -226,7 +226,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -617,6 +617,8 @@ GameObject:
   - component: {fileID: 1137527864}
   - component: {fileID: 1137527863}
   - component: {fileID: 1137527865}
+  - component: {fileID: 1137527866}
+  - component: {fileID: 1137527867}
   m_Layer: 0
   m_Name: Nevoa
   m_TagString: Untagged
@@ -692,8 +694,8 @@ Transform:
   m_GameObject: {fileID: 1137527862}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.32, y: -0.29, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 6.02, y: -8.24, z: 0}
+  m_LocalScale: {x: 6.9916, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -713,6 +715,76 @@ MonoBehaviour:
   lupa: 0
   lupa2: 0
   abrir: 0
+  collider2d: {fileID: 1137527867}
+  animator: {fileID: 0}
+--- !u!95 &1137527866
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137527862}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6b66d3526c04505419a7d733e5b32556, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!61 &1137527867
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137527862}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 2}
+    newSize: {x: 1, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &1255714484
 GameObject:
   m_ObjectHideFlags: 0
@@ -848,8 +920,8 @@ Transform:
   m_GameObject: {fileID: 1514489309}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 6.0093, y: -5.3582, z: 0}
+  m_LocalScale: {x: 1.6677042, y: 2.0716152, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 891425394}
@@ -2797,7 +2869,7 @@ Transform:
   m_GameObject: {fileID: 1934021327}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.36, y: -0.13, z: 0}
+  m_LocalPosition: {x: 5.24, y: -5.84, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2975,6 +3047,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7802528974918258339, guid: c4f58f129be4b40439d589cbe7213897, type: 3}
+    - {fileID: 2804160374851002202, guid: c4f58f129be4b40439d589cbe7213897, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -2993,11 +3066,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2755528394732256944, guid: 5cdeb89b7cfd0a44cad9fff4a4a198e8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.54
+      value: 12.44
       objectReference: {fileID: 0}
     - target: {fileID: 2755528394732256944, guid: 5cdeb89b7cfd0a44cad9fff4a4a198e8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.23
+      value: -10.91
       objectReference: {fileID: 0}
     - target: {fileID: 2755528394732256944, guid: 5cdeb89b7cfd0a44cad9fff4a4a198e8, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3030,6 +3103,14 @@ PrefabInstance:
     - target: {fileID: 2755528394732256944, guid: 5cdeb89b7cfd0a44cad9fff4a4a198e8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3433673518041217284, guid: 5cdeb89b7cfd0a44cad9fff4a4a198e8, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7000695082941575909, guid: 5cdeb89b7cfd0a44cad9fff4a4a198e8, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3192,11 +3273,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 104395355866971774, guid: d1ebee9220501b3438c70551db446d91, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.86
+      value: -0.67
       objectReference: {fileID: 0}
     - target: {fileID: 104395355866971774, guid: d1ebee9220501b3438c70551db446d91, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.23
+      value: -11.03
       objectReference: {fileID: 0}
     - target: {fileID: 104395355866971774, guid: d1ebee9220501b3438c70551db446d91, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3233,6 +3314,14 @@ PrefabInstance:
     - target: {fileID: 2809547037147160591, guid: d1ebee9220501b3438c70551db446d91, type: 3}
       propertyPath: m_Name
       value: Lupa
+      objectReference: {fileID: 0}
+    - target: {fileID: 3852719495109369675, guid: d1ebee9220501b3438c70551db446d91, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582851410592647234, guid: d1ebee9220501b3438c70551db446d91, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
