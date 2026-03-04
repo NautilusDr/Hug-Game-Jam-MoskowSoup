@@ -39,6 +39,7 @@ public class MovimentacaoVagalume : MonoBehaviour
         jogador = GameObject.FindGameObjectWithTag("Player");
         velocidadeAtualVagalume = velocidadeBaseVagalume;
         Physics2D.IgnoreLayerCollision(3, 15);
+        Physics2D.IgnoreLayerCollision(14, 15);
         luz = GetComponentInChildren<Light2D>();
         luz.pointLightOuterRadius = intensidadeBrilhoParado/2;
         colisorLuz.radius = intensidadeBrilhoParado;

@@ -108,16 +108,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6366a9ac87d620443b9f96c57aaebc86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovimentacaoVagalume
-  velocidadeBaseVagalume: 2
+  velocidadeBaseVagalume: 4
   velocidadeAtualVagalume: 0
-  distanciaMinimaAteJogador: 1.5
-  distanciaAteVagalumeVoltarJogador: 20
+  distanciaMinimaAteJogador: 6
+  distanciaAteVagalumeVoltarJogador: 40
   foiResgatado: 0
   estaParado: 0
   estaAbajur: 0
   estaLupa: 0
-  intensidadeBrilhoParado: 6
-  intensidadeBrilhoMovendo: 4
+  intensidadeBrilhoParado: 20
+  intensidadeBrilhoMovendo: 40
   luz: {fileID: 0}
   colisorLuz: {fileID: 2868261596313191177}
 --- !u!50 &5303342746785919068
