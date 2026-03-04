@@ -2,38 +2,39 @@ using UnityEngine;
 
 public class Nevoa : MonoBehaviour
 {
-    public bool lupa;
+
     public Collider2D collider2d;
     public Animator animator;
+
+    public float qtdDeLuz;
 
 
     void Start()
     {
-        lupa = false;
         animator = GetComponent<Animator>();
         collider2d = GetComponent<Collider2D>();
+
+        animator.SetBool("Visivel", true);
+
+        qtdDeLuz = 0;
     }
 
     void Update()
     {
-        if(lupa)
+        if(qtdDeLuz == 2)
         {
             DesativarNevoa();
-        }
-        else
-        {
-            AtivarNevoa();
         }
     }
 
     public void DesativarNevoa()
     {
-        animator.SetTrigger("Sumir");
+        animator.SetBool("Visivel", false);
     }
 
     public void AtivarNevoa()
     {
-        animator.SetTrigger("Aparecer");
+        animator.SetBool("Visivel", true);
     }
 
 
@@ -41,32 +42,28 @@ public class Nevoa : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Lupa"))
         {
-            lupa = true;
-            DesativarNevoa();
+            qtdDeLuz++;
         }
-
-       
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Lupa"))
         {
-            lupa = false;
+            qtdDeLuz--;
             AtivarNevoa();
         }
 
-        
     }
 
     public void AtivarColisor()
     {
-        collider2d.enabled = true; 
+        collider2d.isTrigger = false; 
     }
 
     public void DesativarColisor()
     {
-        collider2d.enabled = false;
+        collider2d.isTrigger = true;
     }
 
 }
