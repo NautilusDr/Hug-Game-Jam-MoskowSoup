@@ -65,5 +65,5 @@ public class Nevoa : MonoBehaviour
     {
         collider2d.isTrigger = true;
     }
-
+    
 }

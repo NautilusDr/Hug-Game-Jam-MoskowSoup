@@ -49,7 +49,12 @@ public class MovimentacaoVagalume : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(foiResgatado && !estaAbajur && !estaLupa)
+
+    }
+
+    void FixedUpdate()
+    {
+        if (foiResgatado && !estaAbajur && !estaLupa)
         {
             if (!estaParado)
             {
@@ -60,7 +65,6 @@ public class MovimentacaoVagalume : MonoBehaviour
                 estaParado = false;
                 colisorLuz.radius = intensidadeBrilhoMovendo * 2;
                 luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
-                AdicionarVagalume();
             }
         }
     }

@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: 0bb37b5abe7e97749bc2c1e10d9edf0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1317835730631311706
+    second: cenario3_sobreposicao_cercas_v2_0
+  - first:
+      213: -120064439682167719
+    second: cenario3_sobreposicao_cercas_v2_1
+  - first:
+      213: 5904861093399204642
+    second: cenario3_sobreposicao_cercas_v2_2
+  - first:
+      213: -4816834486994112286
+    second: cenario3_sobreposicao_cercas_v2_3
+  - first:
+      213: -6155176050485288643
+    second: cenario3_sobreposicao_cercas_v2_4
+  - first:
+      213: 8156612278000200864
+    second: cenario3_sobreposicao_cercas_v2_5
+  - first:
+      213: 5699757247003727056
+    second: cenario3_sobreposicao_cercas_v2_6
+  - first:
+      213: -2804313646034763230
+    second: cenario3_sobreposicao_cercas_v2_7
+  - first:
+      213: 711692594380388830
+    second: cenario3_sobreposicao_cercas_v2_8
+  - first:
+      213: -1457569505999017722
+    second: cenario3_sobreposicao_cercas_v2_9
+  - first:
+      213: 5156690065816124210
+    second: cenario3_sobreposicao_cercas_v2_10
+  - first:
+      213: 4856763801356391436
+    second: cenario3_sobreposicao_cercas_v2_11
+  - first:
+      213: 7411473425461930132
+    second: cenario3_sobreposicao_cercas_v2_12
+  - first:
+      213: -5267280324721879638
+    second: cenario3_sobreposicao_cercas_v2_13
+  - first:
+      213: 145410819350348466
+    second: cenario3_sobreposicao_cercas_v2_14
+  - first:
+      213: -485143709143918447
+    second: cenario3_sobreposicao_cercas_v2_15
+  - first:
+      213: 7330957744778134030
+    second: cenario3_sobreposicao_cercas_v2_16
+  - first:
+      213: 6190026361180845696
+    second: cenario3_sobreposicao_cercas_v2_17
+  - first:
+      213: 7426561744994925823
+    second: cenario3_sobreposicao_cercas_v2_18
+  - first:
+      213: 3426250477889668849
+    second: cenario3_sobreposicao_cercas_v2_19
+  - first:
+      213: -479281117267249322
+    second: cenario3_sobreposicao_cercas_v2_20
+  - first:
+      213: -3421910563817622484
+    second: cenario3_sobreposicao_cercas_v2_21
+  - first:
+      213: 1695605450547589837
+    second: cenario3_sobreposicao_cercas_v2_22
+  - first:
+      213: 765122355481185877
+    second: cenario3_sobreposicao_cercas_v2_23
+  - first:
+      213: 5135502033219358823
+    second: cenario3_sobreposicao_cercas_v2_24
+  - first:
+      213: -8935516189634829283
+    second: cenario3_sobreposicao_cercas_v2_25
+  - first:
+      213: -8033394113802165162
+    second: cenario3_sobreposicao_cercas_v2_26
+  - first:
+      213: 6497784404395283158
+    second: cenario3_sobreposicao_cercas_v2_27
+  - first:
+      213: 6597322802300879247
+    second: cenario3_sobreposicao_cercas_v2_28
+  - first:
+      213: -7900827133756034530
+    second: cenario3_sobreposicao_cercas_v2_29
+  - first:
+      213: 1136850511006431550
+    second: cenario3_sobreposicao_cercas_v2_30
+  - first:
+      213: -7538108204924362719
+    second: cenario3_sobreposicao_cercas_v2_31
+  - first:
+      213: -5447994016363877700
+    second: cenario3_sobreposicao_cercas_v2_32
+  - first:
+      213: 5275703252170580413
+    second: cenario3_sobreposicao_cercas_v2_33
+  - first:
+      213: 5323055937535630513
+    second: cenario3_sobreposicao_cercas_v2_34
+  - first:
+      213: -8963431282533328380
+    second: cenario3_sobreposicao_cercas_v2_35
+  - first:
+      213: -3599899227154907414
+    second: cenario3_sobreposicao_cercas_v2_36
+  - first:
+      213: -4832690238541749056
+    second: cenario3_sobreposicao_cercas_v2_37
+  - first:
+      213: -3628970829192053363
+    second: cenario3_sobreposicao_cercas_v2_38
+  - first:
+      213: 6128742022470302160
+    second: cenario3_sobreposicao_cercas_v2_39
+  - first:
+      213: 5321750233027126980
+    second: cenario3_sobreposicao_cercas_v2_40
+  - first:
+      213: 8602869170247677651
+    second: cenario3_sobreposicao_cercas_v2_41
+  - first:
+      213: 2460143700013851417
+    second: cenario3_sobreposicao_cercas_v2_42
+  - first:
+      213: 2001360361735611953
+    second: cenario3_sobreposicao_cercas_v2_43
+  - first:
+      213: -25076568469114658
+    second: cenario3_sobreposicao_cercas_v2_44
+  - first:
+      213: 3541906430719506682
+    second: cenario3_sobreposicao_cercas_v2_45
+  - first:
+      213: 4047897271105292503
+    second: cenario3_sobreposicao_cercas_v2_46
+  - first:
+      213: -7134327374430003018
+    second: cenario3_sobreposicao_cercas_v2_47
+  - first:
+      213: 1200626205047381924
+    second: cenario3_sobreposicao_cercas_v2_48
+  - first:
+      213: 5561931874653734258
+    second: cenario3_sobreposicao_cercas_v2_49
+  - first:
+      213: 2776709710423560776
+    second: cenario3_sobreposicao_cercas_v2_50
+  - first:
+      213: 4156498378754456300
+    second: cenario3_sobreposicao_cercas_v2_51
+  - first:
+      213: -7235360416896877122
+    second: cenario3_sobreposicao_cercas_v2_52
+  - first:
+      213: 2721741538156557884
+    second: cenario3_sobreposicao_cercas_v2_53
+  - first:
+      213: 8762201110452078205
+    second: cenario3_sobreposicao_cercas_v2_54
+  - first:
+      213: -7929503707888704046
+    second: cenario3_sobreposicao_cercas_v2_55
+  - first:
+      213: -5671629975523342038
+    second: cenario3_sobreposicao_cercas_v2_56
+  - first:
+      213: -425303982245917298
+    second: cenario3_sobreposicao_cercas_v2_57
+  - first:
+      213: -7770053529273693309
+    second: cenario3_sobreposicao_cercas_v2_58
+  - first:
+      213: -5690019692712639940
+    second: cenario3_sobreposicao_cercas_v2_59
+  - first:
+      213: -4184802076898546816
+    second: cenario3_sobreposicao_cercas_v2_60
+  - first:
+      213: 1853256478735713096
+    second: cenario3_sobreposicao_cercas_v2_61
+  - first:
+      213: 968152729734439923
+    second: cenario3_sobreposicao_cercas_v2_62
+  - first:
+      213: 2834009809179452004
+    second: cenario3_sobreposicao_cercas_v2_63
+  - first:
+      213: 1796734515017540465
+    second: cenario3_sobreposicao_cercas_v2_64
+  - first:
+      213: -3144372318229959939
+    second: cenario3_sobreposicao_cercas_v2_65
+  - first:
+      213: -2619293140166861931
+    second: cenario3_sobreposicao_cercas_v2_66
+  - first:
+      213: -8453733059581564375
+    second: cenario3_sobreposicao_cercas_v2_67
+  - first:
+      213: 2223309595379464986
+    second: cenario3_sobreposicao_cercas_v2_68
+  - first:
+      213: -3516309231539932270
+    second: cenario3_sobreposicao_cercas_v2_69
+  - first:
+      213: -4529249867094981112
+    second: cenario3_sobreposicao_cercas_v2_70
+  - first:
+      213: 6519921194608484812
+    second: cenario3_sobreposicao_cercas_v2_71
+  - first:
+      213: 8300609885484312220
+    second: cenario3_sobreposicao_cercas_v2_72
+  - first:
+      213: -6600173074129735012
+    second: cenario3_sobreposicao_cercas_v2_73
+  - first:
+      213: -1112605517492182918
+    second: cenario3_sobreposicao_cercas_v2_74
+  - first:
+      213: 2061713198584505817
+    second: cenario3_sobreposicao_cercas_v2_75
+  - first:
+      213: -8014274920870608971
+    second: cenario3_sobreposicao_cercas_v2_76
+  - first:
+      213: 2285483829553810233
+    second: cenario3_sobreposicao_cercas_v2_77
+  - first:
+      213: 4239979860798258797
+    second: cenario3_sobreposicao_cercas_v2_78
+  - first:
+      213: 4925536434858597872
+    second: cenario3_sobreposicao_cercas_v2_79
+  - first:
+      213: 3600312831083542702
+    second: cenario3_sobreposicao_cercas_v2_80
+  - first:
+      213: -8790726779190713878
+    second: cenario3_sobreposicao_cercas_v2_81
+  - first:
+      213: -8160638735397218967
+    second: cenario3_sobreposicao_cercas_v2_82
+  - first:
+      213: -4346212034038228074
+    second: cenario3_sobreposicao_cercas_v2_83
+  - first:
+      213: 8720761049932741856
+    second: cenario3_sobreposicao_cercas_v2_84
+  - first:
+      213: -5512525754956944383
+    second: cenario3_sobreposicao_cercas_v2_85
+  - first:
+      213: -747232315959786643
+    second: cenario3_sobreposicao_cercas_v2_86
+  - first:
+      213: -5091908813511199858
+    second: cenario3_sobreposicao_cercas_v2_87
+  - first:
+      213: -6437504417734881356
+    second: cenario3_sobreposicao_cercas_v2_88
+  - first:
+      213: -2576299040046677198
+    second: cenario3_sobreposicao_cercas_v2_89
+  - first:
+      213: -4826053811566553709
+    second: cenario3_sobreposicao_cercas_v2_90
+  - first:
+      213: 3480579447976656129
+    second: cenario3_sobreposicao_cercas_v2_91
+  - first:
+      213: 8661725880478212706
+    second: cenario3_sobreposicao_cercas_v2_92
+  - first:
+      213: -6180692356242293732
+    second: cenario3_sobreposicao_cercas_v2_93
+  - first:
+      213: 1649027478668236964
+    second: cenario3_sobreposicao_cercas_v2_94
+  - first:
+      213: -4387076710234362295
+    second: cenario3_sobreposicao_cercas_v2_95
+  - first:
+      213: -2372573813021536244
+    second: cenario3_sobreposicao_cercas_v2_96
+  - first:
+      213: 1128482713895519045
+    second: cenario3_sobreposicao_cercas_v2_97
+  - first:
+      213: 4207724894230769234
+    second: cenario3_sobreposicao_cercas_v2_98
+  - first:
+      213: 42955675157180570
+    second: cenario3_sobreposicao_cercas_v2_99
+  - first:
+      213: -1070364032447892339
+    second: cenario3_sobreposicao_cercas_v2_100
+  - first:
+      213: 3481752213425056572
+    second: cenario3_sobreposicao_cercas_v2_101
+  - first:
+      213: 9201763019932924106
+    second: cenario3_sobreposicao_cercas_v2_102
+  - first:
+      213: -1024174267989783111
+    second: cenario3_sobreposicao_cercas_v2_103
+  - first:
+      213: -4298262577312669960
+    second: cenario3_sobreposicao_cercas_v2_104
+  - first:
+      213: 1036157854378615845
+    second: cenario3_sobreposicao_cercas_v2_105
+  - first:
+      213: -4987200687058884641
+    second: cenario3_sobreposicao_cercas_v2_106
+  - first:
+      213: -5845334845507500705
+    second: cenario3_sobreposicao_cercas_v2_107
+  - first:
+      213: -2779389458629483573
+    second: cenario3_sobreposicao_cercas_v2_108
+  - first:
+      213: 5708664320753962416
+    second: cenario3_sobreposicao_cercas_v2_109
+  - first:
+      213: 7064467924864644662
+    second: cenario3_sobreposicao_cercas_v2_110
+  - first:
+      213: -9173064720017718841
+    second: cenario3_sobreposicao_cercas_v2_111
+  - first:
+      213: -8883545479660607668
+    second: cenario3_sobreposicao_cercas_v2_112
+  - first:
+      213: 2913431057871711383
+    second: cenario3_sobreposicao_cercas_v2_113
+  - first:
+      213: -6862338221300799132
+    second: cenario3_sobreposicao_cercas_v2_114
+  - first:
+      213: 6690090289028372806
+    second: cenario3_sobreposicao_cercas_v2_115
+  - first:
+      213: 9015486213015525062
+    second: cenario3_sobreposicao_cercas_v2_116
+  - first:
+      213: -5290881164102528536
+    second: cenario3_sobreposicao_cercas_v2_117
+  - first:
+      213: -4063877641517100446
+    second: cenario3_sobreposicao_cercas_v2_118
+  - first:
+      213: -6590743195882099860
+    second: cenario3_sobreposicao_cercas_v2_119
+  - first:
+      213: -8630456091659622800
+    second: cenario3_sobreposicao_cercas_v2_120
+  - first:
+      213: 4039839371296352507
+    second: cenario3_sobreposicao_cercas_v2_121
+  - first:
+      213: 3649806264313377207
+    second: cenario3_sobreposicao_cercas_v2_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_0
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1680
+        width: 409
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51c8946d94e94210800000000000000
+      internalID: 1317835730631311706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_1
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2004
+        width: 206
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c869a3702755ef0800000000000000
+      internalID: -120064439682167719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_2
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1529
+        width: 221
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223951011e742f150800000000000000
+      internalID: 5904861093399204642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_3
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2006
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07dd40e8a272db0800000000000000
+      internalID: -4816834486994112286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_4
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1992
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3125dc5efb649aa0800000000000000
+      internalID: -6155176050485288643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_5
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1996
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acaac8b6ab123170800000000000000
+      internalID: 8156612278000200864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_6
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1995
+        width: 371
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d49d9d740b991f40800000000000000
+      internalID: 5699757247003727056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_7
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2010
+        width: 79
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2224159c8931519d0800000000000000
+      internalID: -2804313646034763230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_8
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2004
+        width: 71
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9b155d4a070e900800000000000000
+      internalID: 711692594380388830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_9
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 2005
+        width: 213
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609ac7fb14ca5cbe0800000000000000
+      internalID: -1457569505999017722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_10
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1892
+        width: 79
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b71c52b4e309740800000000000000
+      internalID: 5156690065816124210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1907
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04d2d1f1f0b66340800000000000000
+      internalID: 4856763801356391436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_12
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1953
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e7e210d7dad660800000000000000
+      internalID: 7411473425461930132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_13
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1918
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa55c80b37cd6e6b0800000000000000
+      internalID: -5267280324721879638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_14
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1838
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b240e9ae5a940200800000000000000
+      internalID: 145410819350348466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_15
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1882
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198167fed5c6449f0800000000000000
+      internalID: -485143709143918447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_16
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1801
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0246e05a3bccb560800000000000000
+      internalID: 7330957744778134030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_17
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1837
+        width: 161
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086fc78ed2467e550800000000000000
+      internalID: 6190026361180845696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1838
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc7de83f82701760800000000000000
+      internalID: 7426561744994925823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_19
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1839
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6402618ac7c8f20800000000000000
+      internalID: 3426250477889668849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_20
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1840
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657bbb9fc504959f0800000000000000
+      internalID: -479281117267249322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_21
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1841
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247e76e87ee280d0800000000000000
+      internalID: -3421910563817622484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_22
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1842
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2fa1f6c20088710800000000000000
+      internalID: 1695605450547589837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_23
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1842
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8a208ab24e9a00800000000000000
+      internalID: 765122355481185877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_24
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1865
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7601651e3e7f44740800000000000000
+      internalID: 5135502033219358823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_25
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1694
+        width: 88
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1460103e5baef380800000000000000
+      internalID: -8935516189634829283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_26
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1801
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ab12cd96a38090800000000000000
+      internalID: -8033394113802165162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1824
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2dd033d74cc2a50800000000000000
+      internalID: 6497784404395283158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1839
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818ab372266e8b50800000000000000
+      internalID: 6597322802300879247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_29
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1839
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1234bc059f9a5290800000000000000
+      internalID: -7900827133756034530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_30
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1840
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3972473487e6cf00800000000000000
+      internalID: 1136850511006431550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_31
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1843
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120a607b682436790800000000000000
+      internalID: -7538108204924362719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_32
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1843
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6d2c8e46d464b0800000000000000
+      internalID: -5447994016363877700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_33
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1790
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1200ee720173940800000000000000
+      internalID: 5275703252170580413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_34
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1618
+        width: 84
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc58542c2b4fd940800000000000000
+      internalID: 5323055937535630513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_35
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1218
+        width: 68
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a1af32dbe7b9380800000000000000
+      internalID: -8963431282533328380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_36
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1721
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee7a3ad9b69a0ec0800000000000000
+      internalID: -3599899227154907414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_37
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1657
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4a83e25d5deecb0800000000000000
+      internalID: -4832690238541749056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_38
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1657
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8db0c9024e43adc0800000000000000
+      internalID: -3628970829192053363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_39
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1434
+        width: 257
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9f951e56aad0550800000000000000
+      internalID: 6128742022470302160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_40
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1371
+        width: 390
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c62fee14a7aad940800000000000000
+      internalID: 5321750233027126980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_41
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1399
+        width: 198
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6b5cd2ee7836770800000000000000
+      internalID: 8602869170247677651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_42
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1573
+        width: 116
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913adb729af242220800000000000000
+      internalID: 2460143700013851417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_43
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1617
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1366cc435a246cb10800000000000000
+      internalID: 2001360361735611953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_44
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 790
+        width: 157
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0763c6ef8e6aff0800000000000000
+      internalID: -25076568469114658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_45
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1464
+        width: 192
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af835b60221672130800000000000000
+      internalID: 3541906430719506682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_46
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1552
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d801831f150d2830800000000000000
+      internalID: 4047897271105292503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_47
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1484
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b021cf5d07cdfc90800000000000000
+      internalID: -7134327374430003018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_48
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1427
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afdfdb1c2b79a010800000000000000
+      internalID: 1200626205047381924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_49
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1444
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27588a55293ff2d40800000000000000
+      internalID: 5561931874653734258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_50
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 939
+        width: 136
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8429c2e15cad88620800000000000000
+      internalID: 2776709710423560776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_51
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1463
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea752fd049dea930800000000000000
+      internalID: 4156498378754456300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_52
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1231
+        width: 85
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd70f01906d69b90800000000000000
+      internalID: -7235360416896877122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_53
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 1454
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c363f30328195c520800000000000000
+      internalID: 2721741538156557884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_54
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 819
+        width: 64
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76870f5c77999970800000000000000
+      internalID: 8762201110452078205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_55
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1415
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5a626d36eb4f190800000000000000
+      internalID: -7929503707888704046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_56
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1387
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29497b36925a41b0800000000000000
+      internalID: -5671629975523342038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_57
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1380
+        width: 123
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d4ca01844091af0800000000000000
+      internalID: -425303982245917298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_58
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1369
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b0fdd8b793b2490800000000000000
+      internalID: -7770053529273693309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_59
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1315
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c2ea8c3df801b0800000000000000
+      internalID: -5690019692712639940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_60
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1243
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b252fdea89ce5c0800000000000000
+      internalID: -4184802076898546816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_61
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1243
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843cbbcc2f618b910800000000000000
+      internalID: 1853256478735713096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_62
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1243
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3652837c19f6d00800000000000000
+      internalID: 968152729734439923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_63
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1243
+        width: 165
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4622d1ef7ec645720800000000000000
+      internalID: 2834009809179452004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_64
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 703
+        width: 107
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173ed4b95884fe810800000000000000
+      internalID: 1796734515017540465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_65
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1229
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfae4524902fc54d0800000000000000
+      internalID: -3144372318229959939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_66
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1229
+        width: 117
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9cb144c666abd0800000000000000
+      internalID: -2619293140166861931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_67
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 792
+        width: 166
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a2aa5729e4eaa80800000000000000
+      internalID: -8453733059581564375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_68
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1195
+        width: 152
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b7f422c48cade10800000000000000
+      internalID: 2223309595379464986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_69
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1243
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b2a5526f833fc0800000000000000
+      internalID: -3516309231539932270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_70
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1230
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80681dc2e3fd421c0800000000000000
+      internalID: -4529249867094981112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_71
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1220
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1ed2058c96b7a50800000000000000
+      internalID: 6519921194608484812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_72
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1222
+        width: 139
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96636b56b0b13370800000000000000
+      internalID: 8300609885484312220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_73
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1103
+        width: 26
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92366cee897764a0800000000000000
+      internalID: -6600173074129735012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_74
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1169
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a702dba3d2b3f80f0800000000000000
+      internalID: -1112605517492182918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_75
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1145
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52d5e0b3dac9c10800000000000000
+      internalID: 2061713198584505817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_76
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 978
+        width: 85
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf7f21cb6397c090800000000000000
+      internalID: -8014274920870608971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_77
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1094
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b44781f6ba7bf10800000000000000
+      internalID: 2285483829553810233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_78
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1075
+        width: 290
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb0b1183f67da30800000000000000
+      internalID: 4239979860798258797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_79
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 921
+        width: 214
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd9df77a450b5440800000000000000
+      internalID: 4925536434858597872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_80
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1096
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8f301d171e6f130800000000000000
+      internalID: 3600312831083542702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_81
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1072
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1e2d0d190110680800000000000000
+      internalID: -8790726779190713878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_82
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 826
+        width: 115
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9651b5c9e469fbe80800000000000000
+      internalID: -8160638735397218967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_83
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 935
+        width: 248
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9f98ae272fa3c0800000000000000
+      internalID: -4346212034038228074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_84
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 801
+        width: 85
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecbd4868fd560970800000000000000
+      internalID: 8720761049932741856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_85
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 758
+        width: 35
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c699058039f73b0800000000000000
+      internalID: -5512525754956944383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_86
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 825
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63468aea2c41a5f0800000000000000
+      internalID: -747232315959786643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_87
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 782
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83fbf589e7e559b0800000000000000
+      internalID: -5091908813511199858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_88
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 592
+        width: 182
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf87e4e6d369a6a0800000000000000
+      internalID: -6437504417734881356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 669
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23386d24ca52f3cd0800000000000000
+      internalID: -2576299040046677198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_90
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 703
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395d7aeb0a9660db0800000000000000
+      internalID: -4826053811566553709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_91
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 709
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7c2921908d4030800000000000000
+      internalID: 3480579447976656129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_92
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 517
+        width: 104
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26226b7ebc1a43870800000000000000
+      internalID: 8661725880478212706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_93
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 675
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cb4387c05c93aa0800000000000000
+      internalID: -6180692356242293732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_94
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 744
+        width: 127
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8d0e241c582e610800000000000000
+      internalID: 1649027478668236964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_95
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e671cc9f8fd13c0800000000000000
+      internalID: -4387076710234362295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_96
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 684
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00157ffface21fd0800000000000000
+      internalID: -2372573813021536244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_97
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 716
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54349e0ac0d29af00800000000000000
+      internalID: 1128482713895519045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_98
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 713
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e61317f77d46a30800000000000000
+      internalID: 4207724894230769234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_99
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 300
+        width: 46
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90b4de75fb989000800000000000000
+      internalID: 42955675157180570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_100
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 396
+        width: 21
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84b691659d4521f0800000000000000
+      internalID: -1070364032447892339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_101
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 372
+        width: 90
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b6125e03ba15030800000000000000
+      internalID: 3481752213425056572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_102
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 396
+        width: 59
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac87d6ea6ba33bf70800000000000000
+      internalID: 9201763019932924106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_103
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 492
+        width: 48
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8f58fde669c1f0800000000000000
+      internalID: -1024174267989783111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_104
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 511
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe5ce785f08954c0800000000000000
+      internalID: -4298262577312669960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_105
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 369
+        width: 46
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e779241c216e00800000000000000
+      internalID: 1036157854378615845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_106
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 485
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd765400667e9cab0800000000000000
+      internalID: -4987200687058884641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_107
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 394
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55005c8de231eea0800000000000000
+      internalID: -5845334845507500705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_108
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 173
+        width: 123
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ace16300ad69d0800000000000000
+      internalID: -2779389458629483573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_109
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 379
+        width: 127
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8c7434ff393f40800000000000000
+      internalID: 5708664320753962416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_110
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 388
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636b2b406280a0260800000000000000
+      internalID: 7064467924864644662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_111
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 389
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c10da5fc3ab2b080800000000000000
+      internalID: -9173064720017718841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_112
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 151
+        width: 216
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c476dca047e47b480800000000000000
+      internalID: -8883545479660607668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_113
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 246
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca8027c169e6820800000000000000
+      internalID: 2913431057871711383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_114
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 162
+        width: 156
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a7c6feb314c0a0800000000000000
+      internalID: -6862338221300799132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_115
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 168
+        width: 98
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64993d81ca9f7dc50800000000000000
+      internalID: 6690090289028372806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_116
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 191
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d834d1f07d1d70800000000000000
+      internalID: 9015486213015525062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_117
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 153
+        width: 148
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e11dd01d930396b0800000000000000
+      internalID: -5290881164102528536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_118
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 157
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26298bef0d43a97c0800000000000000
+      internalID: -4063877641517100446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_119
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 159
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bef9b8bf9f884a0800000000000000
+      internalID: -6590743195882099860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_120
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 165
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076a50729e57a3880800000000000000
+      internalID: -8630456091659622800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_121
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 167
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8a1c31184601830800000000000000
+      internalID: 4039839371296352507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenario3_sobreposicao_cercas_v2_122
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 171
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f46bb577b6a230800000000000000
+      internalID: 3649806264313377207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cenario3_sobreposicao_cercas_v2_0: 1317835730631311706
+      cenario3_sobreposicao_cercas_v2_1: -120064439682167719
+      cenario3_sobreposicao_cercas_v2_10: 5156690065816124210
+      cenario3_sobreposicao_cercas_v2_100: -1070364032447892339
+      cenario3_sobreposicao_cercas_v2_101: 3481752213425056572
+      cenario3_sobreposicao_cercas_v2_102: 9201763019932924106
+      cenario3_sobreposicao_cercas_v2_103: -1024174267989783111
+      cenario3_sobreposicao_cercas_v2_104: -4298262577312669960
+      cenario3_sobreposicao_cercas_v2_105: 1036157854378615845
+      cenario3_sobreposicao_cercas_v2_106: -4987200687058884641
+      cenario3_sobreposicao_cercas_v2_107: -5845334845507500705
+      cenario3_sobreposicao_cercas_v2_108: -2779389458629483573
+      cenario3_sobreposicao_cercas_v2_109: 5708664320753962416
+      cenario3_sobreposicao_cercas_v2_11: 4856763801356391436
+      cenario3_sobreposicao_cercas_v2_110: 7064467924864644662
+      cenario3_sobreposicao_cercas_v2_111: -9173064720017718841
+      cenario3_sobreposicao_cercas_v2_112: -8883545479660607668
+      cenario3_sobreposicao_cercas_v2_113: 2913431057871711383
+      cenario3_sobreposicao_cercas_v2_114: -6862338221300799132
+      cenario3_sobreposicao_cercas_v2_115: 6690090289028372806
+      cenario3_sobreposicao_cercas_v2_116: 9015486213015525062
+      cenario3_sobreposicao_cercas_v2_117: -5290881164102528536
+      cenario3_sobreposicao_cercas_v2_118: -4063877641517100446
+      cenario3_sobreposicao_cercas_v2_119: -6590743195882099860
+      cenario3_sobreposicao_cercas_v2_12: 7411473425461930132
+      cenario3_sobreposicao_cercas_v2_120: -8630456091659622800
+      cenario3_sobreposicao_cercas_v2_121: 4039839371296352507
+      cenario3_sobreposicao_cercas_v2_122: 3649806264313377207
+      cenario3_sobreposicao_cercas_v2_13: -5267280324721879638
+      cenario3_sobreposicao_cercas_v2_14: 145410819350348466
+      cenario3_sobreposicao_cercas_v2_15: -485143709143918447
+      cenario3_sobreposicao_cercas_v2_16: 7330957744778134030
+      cenario3_sobreposicao_cercas_v2_17: 6190026361180845696
+      cenario3_sobreposicao_cercas_v2_18: 7426561744994925823
+      cenario3_sobreposicao_cercas_v2_19: 3426250477889668849
+      cenario3_sobreposicao_cercas_v2_2: 5904861093399204642
+      cenario3_sobreposicao_cercas_v2_20: -479281117267249322
+      cenario3_sobreposicao_cercas_v2_21: -3421910563817622484
+      cenario3_sobreposicao_cercas_v2_22: 1695605450547589837
+      cenario3_sobreposicao_cercas_v2_23: 765122355481185877
+      cenario3_sobreposicao_cercas_v2_24: 5135502033219358823
+      cenario3_sobreposicao_cercas_v2_25: -8935516189634829283
+      cenario3_sobreposicao_cercas_v2_26: -8033394113802165162
+      cenario3_sobreposicao_cercas_v2_27: 6497784404395283158
+      cenario3_sobreposicao_cercas_v2_28: 6597322802300879247
+      cenario3_sobreposicao_cercas_v2_29: -7900827133756034530
+      cenario3_sobreposicao_cercas_v2_3: -4816834486994112286
+      cenario3_sobreposicao_cercas_v2_30: 1136850511006431550
+      cenario3_sobreposicao_cercas_v2_31: -7538108204924362719
+      cenario3_sobreposicao_cercas_v2_32: -5447994016363877700
+      cenario3_sobreposicao_cercas_v2_33: 5275703252170580413
+      cenario3_sobreposicao_cercas_v2_34: 5323055937535630513
+      cenario3_sobreposicao_cercas_v2_35: -8963431282533328380
+      cenario3_sobreposicao_cercas_v2_36: -3599899227154907414
+      cenario3_sobreposicao_cercas_v2_37: -4832690238541749056
+      cenario3_sobreposicao_cercas_v2_38: -3628970829192053363
+      cenario3_sobreposicao_cercas_v2_39: 6128742022470302160
+      cenario3_sobreposicao_cercas_v2_4: -6155176050485288643
+      cenario3_sobreposicao_cercas_v2_40: 5321750233027126980
+      cenario3_sobreposicao_cercas_v2_41: 8602869170247677651
+      cenario3_sobreposicao_cercas_v2_42: 2460143700013851417
+      cenario3_sobreposicao_cercas_v2_43: 2001360361735611953
+      cenario3_sobreposicao_cercas_v2_44: -25076568469114658
+      cenario3_sobreposicao_cercas_v2_45: 3541906430719506682
+      cenario3_sobreposicao_cercas_v2_46: 4047897271105292503
+      cenario3_sobreposicao_cercas_v2_47: -7134327374430003018
+      cenario3_sobreposicao_cercas_v2_48: 1200626205047381924
+      cenario3_sobreposicao_cercas_v2_49: 5561931874653734258
+      cenario3_sobreposicao_cercas_v2_5: 8156612278000200864
+      cenario3_sobreposicao_cercas_v2_50: 2776709710423560776
+      cenario3_sobreposicao_cercas_v2_51: 4156498378754456300
+      cenario3_sobreposicao_cercas_v2_52: -7235360416896877122
+      cenario3_sobreposicao_cercas_v2_53: 2721741538156557884
+      cenario3_sobreposicao_cercas_v2_54: 8762201110452078205
+      cenario3_sobreposicao_cercas_v2_55: -7929503707888704046
+      cenario3_sobreposicao_cercas_v2_56: -5671629975523342038
+      cenario3_sobreposicao_cercas_v2_57: -425303982245917298
+      cenario3_sobreposicao_cercas_v2_58: -7770053529273693309
+      cenario3_sobreposicao_cercas_v2_59: -5690019692712639940
+      cenario3_sobreposicao_cercas_v2_6: 5699757247003727056
+      cenario3_sobreposicao_cercas_v2_60: -4184802076898546816
+      cenario3_sobreposicao_cercas_v2_61: 1853256478735713096
+      cenario3_sobreposicao_cercas_v2_62: 968152729734439923
+      cenario3_sobreposicao_cercas_v2_63: 2834009809179452004
+      cenario3_sobreposicao_cercas_v2_64: 1796734515017540465
+      cenario3_sobreposicao_cercas_v2_65: -3144372318229959939
+      cenario3_sobreposicao_cercas_v2_66: -2619293140166861931
+      cenario3_sobreposicao_cercas_v2_67: -8453733059581564375
+      cenario3_sobreposicao_cercas_v2_68: 2223309595379464986
+      cenario3_sobreposicao_cercas_v2_69: -3516309231539932270
+      cenario3_sobreposicao_cercas_v2_7: -2804313646034763230
+      cenario3_sobreposicao_cercas_v2_70: -4529249867094981112
+      cenario3_sobreposicao_cercas_v2_71: 6519921194608484812
+      cenario3_sobreposicao_cercas_v2_72: 8300609885484312220
+      cenario3_sobreposicao_cercas_v2_73: -6600173074129735012
+      cenario3_sobreposicao_cercas_v2_74: -1112605517492182918
+      cenario3_sobreposicao_cercas_v2_75: 2061713198584505817
+      cenario3_sobreposicao_cercas_v2_76: -8014274920870608971
+      cenario3_sobreposicao_cercas_v2_77: 2285483829553810233
+      cenario3_sobreposicao_cercas_v2_78: 4239979860798258797
+      cenario3_sobreposicao_cercas_v2_79: 4925536434858597872
+      cenario3_sobreposicao_cercas_v2_8: 711692594380388830
+      cenario3_sobreposicao_cercas_v2_80: 3600312831083542702
+      cenario3_sobreposicao_cercas_v2_81: -8790726779190713878
+      cenario3_sobreposicao_cercas_v2_82: -8160638735397218967
+      cenario3_sobreposicao_cercas_v2_83: -4346212034038228074
+      cenario3_sobreposicao_cercas_v2_84: 8720761049932741856
+      cenario3_sobreposicao_cercas_v2_85: -5512525754956944383
+      cenario3_sobreposicao_cercas_v2_86: -747232315959786643
+      cenario3_sobreposicao_cercas_v2_87: -5091908813511199858
+      cenario3_sobreposicao_cercas_v2_88: -6437504417734881356
+      cenario3_sobreposicao_cercas_v2_89: -2576299040046677198
+      cenario3_sobreposicao_cercas_v2_9: -1457569505999017722
+      cenario3_sobreposicao_cercas_v2_90: -4826053811566553709
+      cenario3_sobreposicao_cercas_v2_91: 3480579447976656129
+      cenario3_sobreposicao_cercas_v2_92: 8661725880478212706
+      cenario3_sobreposicao_cercas_v2_93: -6180692356242293732
+      cenario3_sobreposicao_cercas_v2_94: 1649027478668236964
+      cenario3_sobreposicao_cercas_v2_95: -4387076710234362295
+      cenario3_sobreposicao_cercas_v2_96: -2372573813021536244
+      cenario3_sobreposicao_cercas_v2_97: 1128482713895519045
+      cenario3_sobreposicao_cercas_v2_98: 4207724894230769234
+      cenario3_sobreposicao_cercas_v2_99: 42955675157180570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

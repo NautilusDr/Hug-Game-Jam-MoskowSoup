@@ -7,12 +7,14 @@ public class MovimentoDaLarva : MonoBehaviour
     [Header("Componentes")]
     public Transform posicaoPlayer;
     public Rigidbody2D rbLarva;
-    Animator animator;
+    public Animator animator;
     GameObject jogador;
+    public SpriteRenderer spriteRenderer;
     
 
     void Start()
     {
+        spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         rbLarva = GetComponent<Rigidbody2D>();
         jogador = GameObject.FindGameObjectWithTag("Player");
@@ -26,11 +28,24 @@ public class MovimentoDaLarva : MonoBehaviour
         Vector2 velocidadeMovimentacao = moveValue * velocidade;
 
         rbLarva.linearVelocity = velocidadeMovimentacao;
-
         bool estaMovendo = moveValue != Vector2.zero;
-        animator.SetFloat("moveX", moveValue.x);
-        animator.SetFloat("moveY", moveValue.y);
-        animator.SetBool("isMoving", moveValue != Vector2.zero);
+        animator.SetFloat("MoveLX", moveValue.x);
+        animator.SetFloat("MoveLY", moveValue.y);
+        animator.SetBool("IsLMoving", moveValue != Vector2.zero);
+
+        if (moveValue.x > 0)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (moveValue.x < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else if (!estaMovendo)
+        {
+            spriteRenderer.flipX = false;
+        }
+
 
         if (MovimentacaoVagalume.larvaPodeAndar == true)
         {
@@ -40,7 +55,6 @@ public class MovimentoDaLarva : MonoBehaviour
         else if(MovimentacaoVagalume.larvaPodeAndar == false)
         {
             PararLarva();
-
         }
     }
 
