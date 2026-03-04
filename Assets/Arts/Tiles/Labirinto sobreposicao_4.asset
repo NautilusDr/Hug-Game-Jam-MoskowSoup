@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: teste
+  m_Name: Labirinto sobreposicao_4
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: 21300000, guid: 405cfea1477b5c54eaa7a4936e456a59, type: 3}
+  m_Sprite: {fileID: 3367179893585882894, guid: 8151b8bfb2749c443b6c7c132c83fcba, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
