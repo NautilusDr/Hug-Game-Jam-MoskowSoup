@@ -1,0 +1,4735 @@
+fileFormatVersion: 2
+guid: 9f732e1a98375ba4580d7d77886e7630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6880054669325912687
+    second: Labirinto base_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Labirinto base 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a22bbd77eb2a418061a3fbeb7a3ff
+      internalID: -948206507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4590b816c21c34388735e8fbdf643b
+      internalID: 1576642889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e1f09fa3839c4e8b977cec551388d
+      internalID: -11416871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d8ae8dbf91484a81e1dec97250a72
+      internalID: 221360898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0cf467d39b8b746a80c851da413ce9
+      internalID: 709432897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b460e27d93ac10c42bf01e9c140b2bfc
+      internalID: 1008099997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2e701f455ccd4497de3aa4950fb86
+      internalID: 1429037094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_7
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4535c2087c81449bbbde1640108e6
+      internalID: -460080049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_8
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b4d229d4b33be4cbd276c411c7fb5f
+      internalID: -1082803763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b47231b4e45f44838f908535c3af9
+      internalID: -681056454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_10
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011ccaad2999f747b82d91dedfcf14c
+      internalID: -2113130732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_11
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d7a2e86b453d4585dc5f036a76d85
+      internalID: 533018935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_12
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1730ae6fd597efb49980aad480c5b547
+      internalID: -1304235347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_13
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b5c8804640c042bf2b7e36dad2493
+      internalID: -1895212869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_14
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d434cec8016642b7ce125290b7c6c
+      internalID: 1767285156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_15
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030d00f1da808747883163b02e0ceb5
+      internalID: -659775178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_16
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aca608d744ad9469598b42e342c21d
+      internalID: -1447475027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_17
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79090fb612d2e9846b51716cfa9fb4f9
+      internalID: 1598966283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_18
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510511be94dd5a54d94c6bb2a9bae124
+      internalID: -1883326405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_19
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1980
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970205e6cb6045841a8866a375b062f6
+      internalID: 38800707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1306d8b77e6134b843ea350eb80488
+      internalID: 828541269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb13e9735308b1499a0c6fe79547e90
+      internalID: 944447733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295b4beda8e31543ba41a493dca7fc5
+      internalID: 216809550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e94a7d424f9d349abe2208cb8e469e
+      internalID: -983154538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522c3874063925458ebd6f1aa35d125
+      internalID: 1539837248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3585d43549ef439d59a11563d05e9
+      internalID: 1855750195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_26
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60990a0f4d3eed447951b61180c073d5
+      internalID: -735106807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_27
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a5cc6ee6c6c0408ad4f07fb49f5e6
+      internalID: 10863594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_28
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a49aa232c05d43ba40a2340adcbf6
+      internalID: 993444151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_29
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040bd924d24d5084c94a9b32eb20bda7
+      internalID: -219282001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_30
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca9dd2e5906a3478c90ac6f608a5b3
+      internalID: 1711353312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_31
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52bbf4b94e57964ebf34c63d398e59f
+      internalID: -1039428981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_32
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd8e84ac44fcb4498c4dbd039d4354
+      internalID: -1944078825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_33
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade4e53c02c88243a8e72f769a0b26e
+      internalID: -1606978837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_34
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9a18e0ba306f46a033168f99c1064
+      internalID: -1160609756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_35
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45463b24dc2c644da37151ea5afbdc4
+      internalID: 1235325822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_36
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099a1fed5a6470f47a9cf01dd953b087
+      internalID: -154184509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_37
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad2557661c89a040b75e1d2181d4b7b
+      internalID: -607257921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_38
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca926b26e2837641ad324ecd41b2b94
+      internalID: 54807017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_39
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1760
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c17c4ccd4b36841a240b38add827b6
+      internalID: -1249562283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198a502de6a9df2429985747e7d98253
+      internalID: 1473083583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d86917c469702d428edbc346934c62c
+      internalID: 231302200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a82b05d06bc9a4d9f3480dee3b845d
+      internalID: 1334044012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_43
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ac35fb15483246ace96792e19955c
+      internalID: 482235944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218502b4e6e28c4da66429ba3f12762
+      internalID: -479653209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_45
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ae5ec66acbf940937350466102628
+      internalID: -74074151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_46
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4909c70bc386524f9688f4c28fe1319
+      internalID: 1175836966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_47
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f92bbb82c040b4b93f82a08cf21712
+      internalID: -742864743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_48
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915bce421adfa0343acd57b55692903f
+      internalID: 1990762926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_49
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622ebc5b17acf742a0825241b012dd1
+      internalID: 1134270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_50
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024b221e96ef974fb3d006dfb35d88a
+      internalID: 1920211632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_51
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b9a43c4b3a194da013f495602d8f7
+      internalID: -1546914994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_52
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c09114dabbb54dad08a308335f380
+      internalID: 1250817401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_53
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55199a97783b8b441ae8a47f3d7cfb1a
+      internalID: 996528800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_54
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab2b517762a5e4b92e31a42f2c28a3
+      internalID: -1094194572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_55
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e856a3b1e9d8d45a2e2281d1f44791
+      internalID: -126510862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_56
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e3d20a0fbf2f45bcbc13bd08b568e
+      internalID: -980197706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_57
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de8dfcda95ed246b3c2ad6821fe6da
+      internalID: -432376595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_58
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e33729ec83ab964d941aa51fa16ad16
+      internalID: -1265469996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_59
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1540
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc779dfeb5a6d4ead0b2bf4bc7e02e
+      internalID: 275416495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de0696cc0953447970ccb688b61c0e
+      internalID: 604282055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd722567d2e9248a4562624dd4badc
+      internalID: 1218297787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_62
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1308fc7ad2ee48147afaad2e4003991f
+      internalID: 875479375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_63
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb82c2a42e2dd479709ad5a6884733
+      internalID: -76142270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_64
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741db5a41a67b5249a0ff6be607d8136
+      internalID: 1217601433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_65
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3fa74f2c7e2c9469e01187dfa74408
+      internalID: -1750068037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_66
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56badbba57be2e4a897ebaba0687d33
+      internalID: -1001732060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_67
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9252b5656b6754cbd180f812be3c76
+      internalID: -1658945594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_68
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d037dc38089fc4a4b97ae79bac06c2c7
+      internalID: 1334978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_69
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0479f88bcc38943a205d0e6f1d7630
+      internalID: -2088637709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_70
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55536b05b365f246a11e31324003539
+      internalID: 1659920938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_71
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01d58c6cf0a714a85ba1a9882a8389
+      internalID: -1160422564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_72
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa92420c8e70ac49bf92a790e4d65ad
+      internalID: -1323056555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_73
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba0e257e6cb2641b39b2322039455d
+      internalID: -1600363946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_74
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647b1064fc86924aaa46076659c1adf
+      internalID: -1819326743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_75
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4460e835075fae74cb650b2c351c90d4
+      internalID: 707154363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_76
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eedf2f2d8322464582a166b63a80303
+      internalID: 237620138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_77
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194603f44a41ad448de437f4f8a13bb
+      internalID: 991388148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_78
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba38b0586dda1b4d9d6c414b390acc1
+      internalID: 413888937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_79
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1320
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c4093e25062d43b68f9d24a42382d
+      internalID: 1893933919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66968c08b2582342b5d7671052a0c72
+      internalID: -1761435280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_81
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a132a03078c34bb36ab37a9f9e941
+      internalID: -617052997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_82
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c211c13ea77048243853a5ebfbc58ab5
+      internalID: -1281889386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_83
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10abfbb9f1dd6384f8cd2fbf540d9c32
+      internalID: -585324700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_84
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f455fcff08d8f4eaf4120724c10858
+      internalID: 1224661960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_85
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f301012b230594bad5bd16a93ab111
+      internalID: -1354854426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_86
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7add1fb3c19c48b1d0a1ce1ad8ce6
+      internalID: -1775570918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_87
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e698dc572fb7e554883fa3adeaa2f7c8
+      internalID: -358369470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_88
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8a19aea451b5488a12c00b6a5fab1
+      internalID: 1440289633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_89
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c7bdaf601992246883c82a18b38b0b
+      internalID: 904640372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_90
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c871c2a31fbe894d9084a51026b538d
+      internalID: -1039740594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_91
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4f9be98adcbb4cb4f149eaa2825a5
+      internalID: -1417660412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_92
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea94194158b17146ac911d01d65d306
+      internalID: 888758807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_93
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8eb4aae1c84874d8e3dd753a0332a5
+      internalID: 2132455140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_94
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06809ffc5bbfd5b4dbba191b8e2e5dd1
+      internalID: -1034978668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_95
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f6f2ede9ccec46b70a42983ac8654
+      internalID: -508400285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_96
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea99abd54cb5fe41b66cde8e7a2dfbb
+      internalID: -2034925547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_97
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296f85119e8da34e9bca2090c46dd8a
+      internalID: -1481353913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_98
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf05c8a8c750c41b4517005dab1b88
+      internalID: 444835834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_99
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1100
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae780d6cf789443b3cb9f1bab983df
+      internalID: 1806956691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e08ed1e1b29a4eb816fcc1ab61d5a
+      internalID: -385662052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8c4e1c02a39cf4293fd06404e53e1f
+      internalID: 391820036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173024d61cfcce3458acba7eeb4b9680
+      internalID: -264353141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_103
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656f3f5cc8a6224498c440512f2d3687
+      internalID: 274155189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_104
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa81c043f3475b45b1710e14618025b
+      internalID: -1898826762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_105
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1696a9f25fbc44ba0c7efa9e84cb4b
+      internalID: -380689009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_106
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4260b44342ca28d4d9a3d44b936ef45f
+      internalID: -1399208592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_107
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0049b1c53ca441a0fc86b9361ccdd
+      internalID: 776971221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_108
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae222bf6585795e42a841e77ef0cdac7
+      internalID: -2042377669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_109
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369bdd3657d9564c92b5ade084563b6
+      internalID: 266539888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_110
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b145474fc58d1224b8f9dff369e429c0
+      internalID: 1401184042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_111
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b877cfbd5f26eb4582c7653317192d7
+      internalID: 148636342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_112
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865adf4a8dd691645a9a864c9d9766c4
+      internalID: 1652904744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_113
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee4d9a1a81695d4d8ef5bc0f9cb3185
+      internalID: -152870926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_114
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae8580413e0a0439739908f3942948
+      internalID: -1219241126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_115
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724627c4924e3564eb14f3ccd9e173ea
+      internalID: -1586085607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_116
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a55b79192d904086ed2d9750a5d3b
+      internalID: 1990218109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_117
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f0d4e69951204b8e8d9f36bbc0852
+      internalID: 1959649444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_118
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69773ba5e7ca6b647ab077c6c7cc864a
+      internalID: 935877095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_119
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 880
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0b780ebff891488dc066bb453a2e2
+      internalID: -1914619833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d71ae0710ad84081b33d2e7b99437
+      internalID: -1983753900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_121
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817f10c9c9f6f2478876053739a0dcf
+      internalID: -1433626646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_122
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380932cee7aae7845a8e708718dbe8e9
+      internalID: 621291169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_123
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97d7fae331b61b4a932876c64a83491
+      internalID: -624158259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_124
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4097aecff3db0c419cb4c04439d8cf4
+      internalID: -1333483431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_125
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8579a5cc7465b4589b2b0a07c3d444
+      internalID: 73128180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_126
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad119427c7dd344b9fd01149fa8acf8
+      internalID: 1425144365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_127
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0583f49a5d25948b63ff57dc088f32
+      internalID: 961509307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_128
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5024e6b5f05bd8478f01189f1a1063f
+      internalID: 92040271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_129
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe84e8e2b505e3458c6ff5b6e6ad168
+      internalID: -506424270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_130
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f78440622c2aa4bb38e0a0f30d4d6a
+      internalID: 2051914423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_131
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e86a6c4991b0744934e7f387ad82f7
+      internalID: 1045407803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_132
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2d050337989044fa771df722e25b05
+      internalID: 217682797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_133
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9b8b1e69d11f409e8523b8fdf97df
+      internalID: -270579303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_134
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b112e8fdb267314a82e723c2328e069
+      internalID: -292988363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_135
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dbdc52c2f80e848ad92cf2e89457d9
+      internalID: 1641636497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_136
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234677b091843754495b8384cbb8d985
+      internalID: -1186068165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_137
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181fc508ceab8194badf11738ee37a92
+      internalID: -1689483162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_138
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6538a363645248a4985bd75b35b4b414
+      internalID: 1727446574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_139
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 660
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee5dc3a7be735428e12b5a94dff81a
+      internalID: 2142496188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e8b1ff13baf5d48ad5c42ad2e90244
+      internalID: -183858532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_141
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0975959fec228c458a6ab789f16ab3f
+      internalID: 518409334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_142
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4982b56da35ace4897f17e88a9528a0
+      internalID: -887241385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_143
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781788863b3da27468bffea897927da7
+      internalID: 1344945807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_144
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deaaab4753f6d04abd2cb691f9cf1e4
+      internalID: -1335561994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_145
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b3a164e858ff419371e71b1611554
+      internalID: 113415780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_146
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480a20f74d1cea47b73e2d26682fe34
+      internalID: -2135570507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_147
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c2b8ada7701b4d95799c59a3bb80f
+      internalID: 654539921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_148
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abab2abb34865e459f2a4e3ed137b11
+      internalID: -2135662422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_149
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5cdc09a12a02449af7607556c656b2
+      internalID: -33154184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_150
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bce730ed5b8b942b2a81e46c543c6d
+      internalID: -1673760321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_151
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a67ae0cb9b81945b66911e5fff084d
+      internalID: -1161968725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_152
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316e17b67a942f4b82fc962ea2f89b9
+      internalID: 2035679895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_153
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f541f832261059742b26a9e894f95fcc
+      internalID: 752391882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_154
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bcdcb8915b2fa4dae0c3b6a5862a36
+      internalID: 1141060947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_155
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344134b335726544b985d642dd8fa6ae
+      internalID: -1038897170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_156
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a0a7ea7c012c148828ba83cee21eaf
+      internalID: -451630302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_157
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2776a62156675a49b3c3e229a44d0d7
+      internalID: 2136266943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_158
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9af3525a14b274b95a2b6c0177fb73
+      internalID: -2027099862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_159
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 440
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a85f7e26fa9d4ea07846faa7b586a
+      internalID: 144892675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb81b7b700c2923408cf61706320eb81
+      internalID: 19770330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_161
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6bf9c3db5c9014cbb47b8ff4ac0940
+      internalID: 1550162609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_162
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63fa99581ace145bb9171e15c2f2d4
+      internalID: -1100925356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_163
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b741c49c450da74a970594bac39d62a
+      internalID: 364207495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_164
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca890ef053e7ec3448263ffe770b53b8
+      internalID: -1218953270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_165
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8c7fd971d64e489f47374734d53f9
+      internalID: -535499575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_166
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86727fb3528c8c45b70b31f5c748f14
+      internalID: -1573080290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_167
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f08d4b66f3bb4696a5205eeccca0b
+      internalID: 1935811471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_168
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7884bf31f90c3d47a08cb2f37440c06
+      internalID: -1515815574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_169
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d895f9b57ad3ae4a85e8d114d8d0321
+      internalID: -1787144690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_170
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351cbced0449504e83c137f84cd34a0
+      internalID: 1179981294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_171
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc57d88060afa4e821d3a51022a81c
+      internalID: 896496390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_172
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df526123e9b3569448e3c56b6e3f8d8f
+      internalID: 1918526453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_173
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d32f0319afaf84cb7f17a1e479c387
+      internalID: -1163475923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_174
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902ca91a6a079242afa1a33c14720bb
+      internalID: 165059203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_175
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57879bd6400a84290faa9fe829ac78
+      internalID: -1195128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_176
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c843fad0710954eb6a27fa8cc0bb1b
+      internalID: 1384395216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_177
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f68ab120c492d4992a71acda9ff790
+      internalID: 126664646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_178
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1d2a5177358741a83891ebdb65d8c
+      internalID: 535984046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_179
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 220
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76572ffc19f554b9dd0ef148b445cc
+      internalID: -708625146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d753ea23fa475ac47a6d37321f0479db
+      internalID: 563541236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_181
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3357500f297004eb6629a8c526ce6b
+      internalID: 1914207232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_182
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae9eeea9f19174d86bc2f523031ee3
+      internalID: -776642217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_183
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8778aecd4c1b01d43bffe9969014bbef
+      internalID: -1462495846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_184
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1411ec596835c34babfcc1695a6a01b
+      internalID: 1996891441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_185
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077e62672cf00e45a8724ac88ed31ed
+      internalID: 660172799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_186
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d3949629448654a96e1d8ca4132aac
+      internalID: 1591900892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_187
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15d26d857554ae46b4023039e6348c3
+      internalID: -1683743157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_188
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d460f84eb0b17eb4da6b35cd9d31160d
+      internalID: -1265932750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_189
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e1947b3fbef44083afaecf84b8519
+      internalID: 901447032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_190
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee748f3894c0d44ba4c6281e5ced350
+      internalID: 1041109374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_191
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0e469ccb9d8284a97b193c40d74dcf
+      internalID: 1986331077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_192
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d94ce16a7350d48a538a0ba2be9199
+      internalID: 133131246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_193
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4fca5782de42045a3e3f8bb18e8a8a
+      internalID: 746035445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_194
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08009e01b390e3e4cb28e3b4eb77b3fc
+      internalID: 1920967257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_195
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5764977327944685b619f29ebd19d
+      internalID: -1198221559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_196
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82577530c431c5a429b01dc7328ba8bf
+      internalID: 1731981965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_197
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f5fd62c0cf9745a58cb319013fdaf
+      internalID: 543979354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_198
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c0312f801548478c93e0cc6bed872
+      internalID: 57042258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labirinto base 1_199
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 0
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc276fc69b2c53478eb337df762ae20
+      internalID: 405578051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d753caa36b8565e41a08970a468b6b5a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":20.0,"y":10.0},"gridSpriteSize":{"x":195.0,"y":220.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Labirinto base 1_0: -948206507
+      Labirinto base 1_1: 1576642889
+      Labirinto base 1_10: -2113130732
+      Labirinto base 1_100: -385662052
+      Labirinto base 1_101: 391820036
+      Labirinto base 1_102: -264353141
+      Labirinto base 1_103: 274155189
+      Labirinto base 1_104: -1898826762
+      Labirinto base 1_105: -380689009
+      Labirinto base 1_106: -1399208592
+      Labirinto base 1_107: 776971221
+      Labirinto base 1_108: -2042377669
+      Labirinto base 1_109: 266539888
+      Labirinto base 1_11: 533018935
+      Labirinto base 1_110: 1401184042
+      Labirinto base 1_111: 148636342
+      Labirinto base 1_112: 1652904744
+      Labirinto base 1_113: -152870926
+      Labirinto base 1_114: -1219241126
+      Labirinto base 1_115: -1586085607
+      Labirinto base 1_116: 1990218109
+      Labirinto base 1_117: 1959649444
+      Labirinto base 1_118: 935877095
+      Labirinto base 1_119: -1914619833
+      Labirinto base 1_12: -1304235347
+      Labirinto base 1_120: -1983753900
+      Labirinto base 1_121: -1433626646
+      Labirinto base 1_122: 621291169
+      Labirinto base 1_123: -624158259
+      Labirinto base 1_124: -1333483431
+      Labirinto base 1_125: 73128180
+      Labirinto base 1_126: 1425144365
+      Labirinto base 1_127: 961509307
+      Labirinto base 1_128: 92040271
+      Labirinto base 1_129: -506424270
+      Labirinto base 1_13: -1895212869
+      Labirinto base 1_130: 2051914423
+      Labirinto base 1_131: 1045407803
+      Labirinto base 1_132: 217682797
+      Labirinto base 1_133: -270579303
+      Labirinto base 1_134: -292988363
+      Labirinto base 1_135: 1641636497
+      Labirinto base 1_136: -1186068165
+      Labirinto base 1_137: -1689483162
+      Labirinto base 1_138: 1727446574
+      Labirinto base 1_139: 2142496188
+      Labirinto base 1_14: 1767285156
+      Labirinto base 1_140: -183858532
+      Labirinto base 1_141: 518409334
+      Labirinto base 1_142: -887241385
+      Labirinto base 1_143: 1344945807
+      Labirinto base 1_144: -1335561994
+      Labirinto base 1_145: 113415780
+      Labirinto base 1_146: -2135570507
+      Labirinto base 1_147: 654539921
+      Labirinto base 1_148: -2135662422
+      Labirinto base 1_149: -33154184
+      Labirinto base 1_15: -659775178
+      Labirinto base 1_150: -1673760321
+      Labirinto base 1_151: -1161968725
+      Labirinto base 1_152: 2035679895
+      Labirinto base 1_153: 752391882
+      Labirinto base 1_154: 1141060947
+      Labirinto base 1_155: -1038897170
+      Labirinto base 1_156: -451630302
+      Labirinto base 1_157: 2136266943
+      Labirinto base 1_158: -2027099862
+      Labirinto base 1_159: 144892675
+      Labirinto base 1_16: -1447475027
+      Labirinto base 1_160: 19770330
+      Labirinto base 1_161: 1550162609
+      Labirinto base 1_162: -1100925356
+      Labirinto base 1_163: 364207495
+      Labirinto base 1_164: -1218953270
+      Labirinto base 1_165: -535499575
+      Labirinto base 1_166: -1573080290
+      Labirinto base 1_167: 1935811471
+      Labirinto base 1_168: -1515815574
+      Labirinto base 1_169: -1787144690
+      Labirinto base 1_17: 1598966283
+      Labirinto base 1_170: 1179981294
+      Labirinto base 1_171: 896496390
+      Labirinto base 1_172: 1918526453
+      Labirinto base 1_173: -1163475923
+      Labirinto base 1_174: 165059203
+      Labirinto base 1_175: -1195128452
+      Labirinto base 1_176: 1384395216
+      Labirinto base 1_177: 126664646
+      Labirinto base 1_178: 535984046
+      Labirinto base 1_179: -708625146
+      Labirinto base 1_18: -1883326405
+      Labirinto base 1_180: 563541236
+      Labirinto base 1_181: 1914207232
+      Labirinto base 1_182: -776642217
+      Labirinto base 1_183: -1462495846
+      Labirinto base 1_184: 1996891441
+      Labirinto base 1_185: 660172799
+      Labirinto base 1_186: 1591900892
+      Labirinto base 1_187: -1683743157
+      Labirinto base 1_188: -1265932750
+      Labirinto base 1_189: 901447032
+      Labirinto base 1_19: 38800707
+      Labirinto base 1_190: 1041109374
+      Labirinto base 1_191: 1986331077
+      Labirinto base 1_192: 133131246
+      Labirinto base 1_193: 746035445
+      Labirinto base 1_194: 1920967257
+      Labirinto base 1_195: -1198221559
+      Labirinto base 1_196: 1731981965
+      Labirinto base 1_197: 543979354
+      Labirinto base 1_198: 57042258
+      Labirinto base 1_199: 405578051
+      Labirinto base 1_2: -11416871
+      Labirinto base 1_20: 828541269
+      Labirinto base 1_21: 944447733
+      Labirinto base 1_22: 216809550
+      Labirinto base 1_23: -983154538
+      Labirinto base 1_24: 1539837248
+      Labirinto base 1_25: 1855750195
+      Labirinto base 1_26: -735106807
+      Labirinto base 1_27: 10863594
+      Labirinto base 1_28: 993444151
+      Labirinto base 1_29: -219282001
+      Labirinto base 1_3: 221360898
+      Labirinto base 1_30: 1711353312
+      Labirinto base 1_31: -1039428981
+      Labirinto base 1_32: -1944078825
+      Labirinto base 1_33: -1606978837
+      Labirinto base 1_34: -1160609756
+      Labirinto base 1_35: 1235325822
+      Labirinto base 1_36: -154184509
+      Labirinto base 1_37: -607257921
+      Labirinto base 1_38: 54807017
+      Labirinto base 1_39: -1249562283
+      Labirinto base 1_4: 709432897
+      Labirinto base 1_40: 1473083583
+      Labirinto base 1_41: 231302200
+      Labirinto base 1_42: 1334044012
+      Labirinto base 1_43: 482235944
+      Labirinto base 1_44: -479653209
+      Labirinto base 1_45: -74074151
+      Labirinto base 1_46: 1175836966
+      Labirinto base 1_47: -742864743
+      Labirinto base 1_48: 1990762926
+      Labirinto base 1_49: 1134270
+      Labirinto base 1_5: 1008099997
+      Labirinto base 1_50: 1920211632
+      Labirinto base 1_51: -1546914994
+      Labirinto base 1_52: 1250817401
+      Labirinto base 1_53: 996528800
+      Labirinto base 1_54: -1094194572
+      Labirinto base 1_55: -126510862
+      Labirinto base 1_56: -980197706
+      Labirinto base 1_57: -432376595
+      Labirinto base 1_58: -1265469996
+      Labirinto base 1_59: 275416495
+      Labirinto base 1_6: 1429037094
+      Labirinto base 1_60: 604282055
+      Labirinto base 1_61: 1218297787
+      Labirinto base 1_62: 875479375
+      Labirinto base 1_63: -76142270
+      Labirinto base 1_64: 1217601433
+      Labirinto base 1_65: -1750068037
+      Labirinto base 1_66: -1001732060
+      Labirinto base 1_67: -1658945594
+      Labirinto base 1_68: 1334978556
+      Labirinto base 1_69: -2088637709
+      Labirinto base 1_7: -460080049
+      Labirinto base 1_70: 1659920938
+      Labirinto base 1_71: -1160422564
+      Labirinto base 1_72: -1323056555
+      Labirinto base 1_73: -1600363946
+      Labirinto base 1_74: -1819326743
+      Labirinto base 1_75: 707154363
+      Labirinto base 1_76: 237620138
+      Labirinto base 1_77: 991388148
+      Labirinto base 1_78: 413888937
+      Labirinto base 1_79: 1893933919
+      Labirinto base 1_8: -1082803763
+      Labirinto base 1_80: -1761435280
+      Labirinto base 1_81: -617052997
+      Labirinto base 1_82: -1281889386
+      Labirinto base 1_83: -585324700
+      Labirinto base 1_84: 1224661960
+      Labirinto base 1_85: -1354854426
+      Labirinto base 1_86: -1775570918
+      Labirinto base 1_87: -358369470
+      Labirinto base 1_88: 1440289633
+      Labirinto base 1_89: 904640372
+      Labirinto base 1_9: -681056454
+      Labirinto base 1_90: -1039740594
+      Labirinto base 1_91: -1417660412
+      Labirinto base 1_92: 888758807
+      Labirinto base 1_93: 2132455140
+      Labirinto base 1_94: -1034978668
+      Labirinto base 1_95: -508400285
+      Labirinto base 1_96: -2034925547
+      Labirinto base 1_97: -1481353913
+      Labirinto base 1_98: 444835834
+      Labirinto base 1_99: 1806956691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
