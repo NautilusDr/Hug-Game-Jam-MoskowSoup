@@ -42,7 +42,7 @@ public class MovimentacaoVagalume : MonoBehaviour
         Physics2D.IgnoreLayerCollision(3, 15);
         Physics2D.IgnoreLayerCollision(14, 15);
         luz = GetComponentInChildren<Light2D>();
-        luz.pointLightOuterRadius = intensidadeBrilhoParado/2;
+        luz.pointLightOuterRadius = intensidadeBrilhoParado * 0.5f;
         colisorLuz.radius = intensidadeBrilhoParado;
 
         animator = GetComponent<Animator>();
@@ -60,7 +60,7 @@ public class MovimentacaoVagalume : MonoBehaviour
             else if (Vector2.Distance(transform.position, jogador.transform.position) > distanciaAteVagalumeVoltarJogador)
             {
                 estaParado = false;
-                colisorLuz.radius = intensidadeBrilhoMovendo * 2;
+                colisorLuz.radius = intensidadeBrilhoMovendo * 0.5f;
                 luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
                 AdicionarVagalume();
             }
@@ -82,7 +82,7 @@ public class MovimentacaoVagalume : MonoBehaviour
 
         if (distanciaAteJogador > distanciaMinimaAteJogador)
         {
-            if(distanciaAteJogador > distanciaAteVagalumeVoltarJogador/2)
+            if(distanciaAteJogador > distanciaAteVagalumeVoltarJogador * 0.5f)
             {
                 velocidadeAtualVagalume = velocidadeBaseVagalume * 3;
             }
@@ -97,14 +97,14 @@ public class MovimentacaoVagalume : MonoBehaviour
     public void EntrarAbajur()
     {
         estaAbajur = true;
-        colisorLuz.radius = intensidadeBrilhoParado * 4;
+        colisorLuz.radius = intensidadeBrilhoParado;
         luz.pointLightOuterRadius = intensidadeBrilhoParado * 2;
     }
 
     public void SairAbajur()
     {
         estaAbajur = false;
-        colisorLuz.radius = intensidadeBrilhoMovendo * 2;
+        colisorLuz.radius = intensidadeBrilhoMovendo * 0.5f;
         luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
     }
 
@@ -124,7 +124,7 @@ public class MovimentacaoVagalume : MonoBehaviour
     {
         estaLupa = false;
         transform.parent = null;
-        colisorLuz.radius = intensidadeBrilhoMovendo *2;
+        colisorLuz.radius = intensidadeBrilhoMovendo * 0.5f;
         luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
         luz.falloffIntensity = 0.5f; 
         luz.pointLightInnerAngle = 360;
@@ -157,7 +157,7 @@ public class MovimentacaoVagalume : MonoBehaviour
             {
                 estaParado = false;
                 luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
-                colisorLuz.radius = intensidadeBrilhoMovendo - 5;
+                colisorLuz.radius = intensidadeBrilhoMovendo * 0.5f;
                 AdicionarVagalume();
                 //collision.GetComponent<ControladorJogador>().vagalumesColetados.Add(gameObject);
             }
@@ -165,7 +165,7 @@ public class MovimentacaoVagalume : MonoBehaviour
             {
                 estaParado = true;
                 luz.pointLightOuterRadius = intensidadeBrilhoParado;
-                colisorLuz.radius = intensidadeBrilhoParado - 4;
+                colisorLuz.radius = intensidadeBrilhoParado * 0.5f;
                 RemoverVagalume();
             }
         }
