@@ -17,11 +17,14 @@ public class Nevoa : MonoBehaviour
         animator.SetBool("Visivel", true);
 
         qtdDeLuz = 0;
+      
+        
     }
 
     void Update()
     {
-        if(qtdDeLuz == 2)
+        
+        if (qtdDeLuz == 2)
         {
             DesativarNevoa();
         }
@@ -43,6 +46,7 @@ public class Nevoa : MonoBehaviour
         if (collision.gameObject.CompareTag("Lupa"))
         {
             qtdDeLuz++;
+            animator.SetFloat("NvlL", qtdDeLuz);
         }
     }
 
@@ -51,6 +55,7 @@ public class Nevoa : MonoBehaviour
         if (collision.gameObject.CompareTag("Lupa"))
         {
             qtdDeLuz--;
+            animator.SetFloat("NvlL", qtdDeLuz);
             AtivarNevoa();
         }
 
