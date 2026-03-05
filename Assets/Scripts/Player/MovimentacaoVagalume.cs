@@ -147,7 +147,7 @@ public class MovimentacaoVagalume : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") && !estaAbajur)
+        if (collision.gameObject.CompareTag("Player") && !estaAbajur && !estaLupa)
         {
             if (!foiResgatado)
             {
