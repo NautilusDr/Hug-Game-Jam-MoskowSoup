@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 104395355866971774}
   - component: {fileID: 3184275988201813938}
   - component: {fileID: 8209932988787036035}
-  - component: {fileID: 640320557139781678}
+  - component: {fileID: 8297090146699119392}
   m_Layer: 0
   m_Name: Lupa
   m_TagString: Untagged
@@ -111,8 +111,8 @@ MonoBehaviour:
   estaNaLuz: 0
   possuiVagalume: 0
   podeInteragirLupa: 1
---- !u!60 &640320557139781678
-PolygonCollider2D:
+--- !u!58 &8297090146699119392
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -145,22 +145,8 @@ PolygonCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.28866667}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0, y: 0.5773587}
-      - {x: -0.5, y: -0.28866667}
-      - {x: 0.5, y: -0.28866667}
-  m_UseDelaunayMesh: 1
+  m_Offset: {x: 0, y: 0.21133332}
+  m_Radius: 0.50000006
 --- !u!1 &8900282248356412136
 GameObject:
   m_ObjectHideFlags: 0
