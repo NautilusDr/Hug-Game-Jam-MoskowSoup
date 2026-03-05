@@ -110,7 +110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MovimentacaoVagalume
   velocidadeBaseVagalume: 4
   velocidadeAtualVagalume: 0
-  distanciaMinimaAteJogador: 6
+  distanciaMinimaAteJogador: 10
   distanciaAteVagalumeVoltarJogador: 40
   foiResgatado: 0
   estaParado: 0
