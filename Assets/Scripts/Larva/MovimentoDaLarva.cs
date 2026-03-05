@@ -10,6 +10,7 @@ public class MovimentoDaLarva : MonoBehaviour
     public Animator animator;
     GameObject jogador;
     public SpriteRenderer spriteRenderer;
+    public bool comendoFolha = false;
     
 
     void Start()
@@ -24,6 +25,7 @@ public class MovimentoDaLarva : MonoBehaviour
 
     private void FixedUpdate()
     {
+
         Vector2 moveValue = new Vector2(rbLarva.linearVelocityX, rbLarva.linearVelocityY);
         Vector2 velocidadeMovimentacao = moveValue * velocidade;
 
@@ -49,6 +51,11 @@ public class MovimentoDaLarva : MonoBehaviour
 
         if (MovimentacaoVagalume.larvaPodeAndar == true)
         {
+            if (comendoFolha)
+            {
+                PararLarva();
+                return;
+            }
             MovimentacaoLarva();
 
         }
@@ -70,5 +77,14 @@ public class MovimentoDaLarva : MonoBehaviour
 
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Folha"))
+        {
+            animator.SetTrigger("Folha");
+            PararLarva();
+            comendoFolha = true;
+        }
+    }
 
 }

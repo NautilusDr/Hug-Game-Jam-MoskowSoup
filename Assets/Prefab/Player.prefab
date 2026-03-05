@@ -196,7 +196,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MovimentacaoTopDownPlayer
   somPassosSource: {fileID: 7657207506667914665}
   somPassosClip: {fileID: 8300000, guid: 6121eb7c40533ca4faa9ed7fa2c532ca, type: 3}
-  velocidadeBaseJogador: 6
+  velocidadeBaseJogador: 20
   velocidadeAtualJogador: 0
   jogadorRigidBody2D: {fileID: 5435318247015435297}
   spriteRenderer: {fileID: 3207656912916106847}
