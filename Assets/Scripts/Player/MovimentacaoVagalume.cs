@@ -65,6 +65,7 @@ public class MovimentacaoVagalume : MonoBehaviour
                 estaParado = false;
                 colisorLuz.radius = intensidadeBrilhoMovendo * 2;
                 luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
+                AdicionarVagalume();
             }
         }
     }
