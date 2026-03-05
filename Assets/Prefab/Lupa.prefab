@@ -106,6 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec999ad4d5b9c7c4d9a9b63e9997134a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Lupa
+  colisor: {fileID: 3852719495109369675}
   vagalume: {fileID: 0}
   velocidadeRotacao: 20
   estaNaLuz: 0

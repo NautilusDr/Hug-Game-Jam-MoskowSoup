@@ -8,6 +8,7 @@ public class Lupa : MonoBehaviour
     InputAction acaoRotacionarDireita;
     GameObject jogador;
     ControladorJogador controladorJogador;
+    public Collider2D colisor;
     public GameObject vagalume;
     public float velocidadeRotacao;
 
@@ -34,6 +35,15 @@ public class Lupa : MonoBehaviour
         {
             InteragirLupa();
             RotacionarLupa();
+        }
+
+        if (possuiVagalume)
+        {
+            colisor.enabled = true;
+        }
+        else
+        {
+            colisor.enabled = false;
         }
     }
 

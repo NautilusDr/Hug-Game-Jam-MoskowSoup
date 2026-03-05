@@ -112,7 +112,7 @@ public class MovimentacaoVagalume : MonoBehaviour
     {
         estaLupa = true;
         transform.parent = lupa.transform;
-        colisorLuz.radius = 1;
+        colisorLuz.radius = 4;
         luz.pointLightOuterRadius = intensidadeBrilhoParado;
         luz.falloffIntensity = 0.15f;
         luz.pointLightInnerAngle = 0;
