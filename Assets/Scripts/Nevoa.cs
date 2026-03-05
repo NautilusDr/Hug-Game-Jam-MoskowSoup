@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Nevoa : MonoBehaviour
 {
-
+    public GameObject vagalume;
     public Collider2D collider2d;
     public Animator animator;
 
@@ -33,6 +33,8 @@ public class Nevoa : MonoBehaviour
     public void DesativarNevoa()
     {
         animator.SetBool("Visivel", false);
+        vagalume.SetActive(true);
+
     }
 
     public void AtivarNevoa()
