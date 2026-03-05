@@ -10,7 +10,7 @@ public class FolhaDaLagarta : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Lagarta"))
+        if (collision.gameObject.CompareTag("Larva"))
         {
             Destroy(gameObject);
         }
