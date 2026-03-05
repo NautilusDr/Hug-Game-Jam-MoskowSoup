@@ -6,6 +6,7 @@ using static UnityEngine.GraphicsBuffer;
 public class MovimentacaoVagalume : MonoBehaviour
 {
     private GameObject jogador;
+    Animator animator;
 
     [Header("Movimentacao do Vagalume")]
     public float velocidadeBaseVagalume;
@@ -44,11 +45,7 @@ public class MovimentacaoVagalume : MonoBehaviour
         luz.pointLightOuterRadius = intensidadeBrilhoParado/2;
         colisorLuz.radius = intensidadeBrilhoParado;
 
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
+        animator = GetComponent<Animator>();
 
     }
 
@@ -67,6 +64,15 @@ public class MovimentacaoVagalume : MonoBehaviour
                 luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
                 AdicionarVagalume();
             }
+        }
+
+        if (estaParado || estaAbajur || estaLupa)
+        {
+            animator.SetBool("EstaParado", true);
+        }
+        else
+        {
+            animator.SetBool("EstaParado", false);
         }
     }
 
@@ -151,7 +157,7 @@ public class MovimentacaoVagalume : MonoBehaviour
             {
                 estaParado = false;
                 luz.pointLightOuterRadius = intensidadeBrilhoMovendo;
-                colisorLuz.radius = intensidadeBrilhoMovendo * 2;
+                colisorLuz.radius = intensidadeBrilhoMovendo - 5;
                 AdicionarVagalume();
                 //collision.GetComponent<ControladorJogador>().vagalumesColetados.Add(gameObject);
             }
@@ -159,7 +165,7 @@ public class MovimentacaoVagalume : MonoBehaviour
             {
                 estaParado = true;
                 luz.pointLightOuterRadius = intensidadeBrilhoParado;
-                colisorLuz.radius = intensidadeBrilhoParado * 2;
+                colisorLuz.radius = intensidadeBrilhoParado - 4;
                 RemoverVagalume();
             }
         }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3556120255078657683}
   - component: {fileID: 5303342746785919068}
   - component: {fileID: 4535754884111114290}
+  - component: {fileID: 7839247200363116763}
   m_Layer: 0
   m_Name: Vagalume
   m_TagString: Vagalume
@@ -87,7 +88,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 6869071714106788505, guid: 7576d183e6fff5449a3a634daf0f54cf, type: 3}
-  m_Color: {r: 0, g: 1, b: 0.99166536, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -108,16 +109,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6366a9ac87d620443b9f96c57aaebc86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovimentacaoVagalume
-  velocidadeBaseVagalume: 4
+  velocidadeBaseVagalume: 15
   velocidadeAtualVagalume: 0
-  distanciaMinimaAteJogador: 10
-  distanciaAteVagalumeVoltarJogador: 40
+  distanciaMinimaAteJogador: 15
+  distanciaAteVagalumeVoltarJogador: 70
   foiResgatado: 0
   estaParado: 0
   estaAbajur: 0
   estaLupa: 0
-  intensidadeBrilhoParado: 20
-  intensidadeBrilhoMovendo: 40
+  intensidadeBrilhoParado: 30
+  intensidadeBrilhoMovendo: 50
   luz: {fileID: 0}
   colisorLuz: {fileID: 2868261596313191177}
 --- !u!50 &5303342746785919068
@@ -183,6 +184,28 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: -0.012697134, y: -0.008796276}
   m_Radius: 0.608819
+--- !u!95 &7839247200363116763
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833608137128768042}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7536122aefec864992c41cf0dc56653, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2027853127096131876
 GameObject:
   m_ObjectHideFlags: 0
@@ -336,7 +359,7 @@ MonoBehaviour:
   m_ComponentVersion: 2
   m_LightType: 3
   m_BlendStyleIndex: 0
-  m_FalloffIntensity: 0.5
+  m_FalloffIntensity: 0.4
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_LightVolumeIntensity: 1
@@ -361,7 +384,7 @@ MonoBehaviour:
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
-  m_PointLightInnerRadius: 0
+  m_PointLightInnerRadius: 2
   m_PointLightOuterRadius: 2
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
